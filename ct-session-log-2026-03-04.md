@@ -104,4 +104,52 @@ For reference — all entries from this ideation session:
 - `ct-prompt-engineering-surfaces.md` — roles vs prompts vs constraints as three distinct prompt engineering surfaces
 
 ---
+
+## Drew Bent — Conversation Strategy
+
+Drew Bent is Anthropic's education lead and the person who built Learning Mode. He's a 3rd-degree LinkedIn connection; Premium InMail is the contact path. He posts about Learning Mode on LinkedIn — actively engaged with AI education applications, not just theoretically interested.
+
+### Conversation arc (four moves)
+
+1. **Learning Mode as opener** — genuine usability question about where the style selector lives; positions as an active, critical user rather than a fan
+2. **Single-model vs multi-model pivot** — after he engages on Learning Mode, introduce the question of what happens when you triangulate across models rather than relying on one; CT as natural extension of his own work, not a challenge to it
+3. **Introduce CT and Tetras** — once there's genuine engagement, the tetrahedron gives him something visually and conceptually distinctive; he becomes an audience for the framework
+4. **Co-creator move** — "If you could make a Tetra based on a Socratic model, what roles would you assign?" makes him a collaborator rather than an audience; his answer is valuable regardless of what happens next
+
+### Learning Mode usability finding
+
+Learning Mode is buried three interactions deep: plus button → Use style (submenu) → Learning. The plus button's primary affordance is file attachment, not behavioral configuration — users have no reason to look there for a session-level setting. The style selector (Normal, Learning, Concise, Explanatory, Formal) belongs near the model selector, which is the other session-level control and is always visible.
+
+Nielsen's visibility heuristic and Krug's discoverability principle both apply directly. A feature that exists but can't be found has an adoption problem regardless of how well it works. This is specific, constructive feedback directly relevant to Drew's educational use case goals.
+
+**Note on Nielsen vs Krug:** Nielsen had near-guru status in early web usability (~2000) but became somewhat evangelical and defensive of his authority. Krug's "Don't Make Me Think" landed differently — practitioner-oriented, less interested in being right than being useful. The contrast between them is itself a compressed heteroglossia moment — invoking Nielsen's name carries the whole weight of that era.
+
+### Anthropic's existing style vocabulary as validation
+
+The five styles in the current interface — Normal, Learning, Concise, Explanatory, Formal — partially implement the accessibility and verbosity vocabulary CT was independently designing:
+
+| Claude style | CT equivalent |
+|---|---|
+| Concise | Verbosity control (063) |
+| Explanatory | Readability targeting (064) from a scaffolding angle |
+| Formal | Epistemic stance constraint |
+| Learning | Mode with its own meta-structure; Socratic by design |
+
+CT's gap: these styles apply to a single model in isolation. CT applies them across a triangulated multi-model session with role assignments and structured interaction. Not overlap — the next level of the same idea. Demonstrated user demand and institutional validation for these controls already exists; CT extends them into the multi-model epistemic space.
+
+---
+
+## Late Additions — Tracker Entries
+
+| # | Feature |
+|---|---------|
+| 072 | Reciprocal Teaching interaction preset |
+| 073 | Tetras — named interaction presets |
+
+## Late Additions — ZK Notes
+
+- `reciprocal-teaching-ct-preset.md` — Palincsar/Brown Reciprocal Teaching mapped to CT's four-vertex structure; Vygotsky→Bakhtin lineage
+- `ct-session-log-2026-03-04.md` — this file
+
+---
 *Log closed: 2026-03-04*
