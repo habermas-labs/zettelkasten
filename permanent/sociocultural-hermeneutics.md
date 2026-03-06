@@ -2,7 +2,7 @@
 
 **Type:** Permanent note
 **Tags:** #hermeneutics #sociocultural #packer #heidegger #horizon #triangulation #crosstalk-theory
-**Related:** vnenakhodimost-surplus-of-seeing.md · ct-interaction-design-taxonomy.md · ct-color-system-philosophy.md
+**Related:** vnenakhodimost-surplus-of-seeing.md · ct-interaction-design-taxonomy.md · ct-color-system-philosophy.md · ethics-of-becoming.md
 **Date:** 2026-03-05
 
 ---
@@ -29,6 +29,40 @@ This is the structural reason why a single perspective cannot exhaust the meanin
 
 ---
 
+## The Sociocultural Field as Flow
+
+The hermeneutic horizon is not static. The sociocultural context within which all interpretation takes place is better understood as a river — constant flow, constant change. This is not metaphor for convenience; it is a structural description of what a sociocultural field is. The flow is the fundamental condition. Meaning is always made within it, never above it.
+
+Against this constant flow, three distinct coherences can be identified:
+
+**Global coherence** is the breadth of shared structures, patterns, and orientations that hold across the field at any given moment — the culture's simultaneous extension.
+
+**Temporal coherence** is the persistence of those structures through time — the thread of continuity that allows a culture to remain recognizable to itself across change. These are separable: a culture can have wide global coherence with weak temporal coherence, or strong temporal identity that has become narrow.
+
+**Local coherence** is a specific instantiation of the global and temporal within a particular community, institution, or subculture. Local coherence is a shrinking of horizons — a crystallization of the broader flow into a form that can be held and inhabited. Different local instantiations will not equate. They may overlap, partially intersect, or be alien to one another entirely. The same participation in the general flow can be judged entirely differently through different local coherences — and those judgments can each be locally valid while differing from a metaperspective that attempts to hold all coherences simultaneously.
+
+The metaperspective is an idealized limit — objectivity as non-participation is a fiction, and the metaperspective cannot be fully occupied. But it is the direction EoB moves toward: not a claim about what is ethical from within any local coherence, but a framework for evaluating the nature of participation across them.
+
+---
+
+## The Geometry of the Flow
+
+Surface currents are determined by the geometries through which they flow. Banks narrow or widen. Structures on the bottom produce eddies, rapids, unexpected accelerations at the surface. The geometry does not merely alter the shape and direction of the flow — it alters the speed.
+
+Critically: many of these structures are not visible from the surface. Only their effects can be observed. They can only be inferred if the locality from which the flow is being read can take in enough of the surface simultaneously. A narrow local coherence sees the eddy but cannot place it. A broader view begins to see patterns across multiple surface effects and can start to reconstruct the invisible geometry underneath.
+
+This is the structural argument for the metaperspective: not transcendence of the flow, but sufficient breadth of surface reading to infer what cannot be directly seen.
+
+### Momentum and the Rejection of the Great Man
+
+The very momentum of the flow resists intentional change. This is a structural rejection of the long-term efficacy of Great Man accounts of historical causation. The Great Man does not redirect the river — he dams it. He creates a local instantiation by force of will or influence, and that instantiation may appear to reshape the flow. But it is now static against a moving current. The erosion is inevitable.
+
+True meaningful change in the flow involves many small acts by many individuals over time — not opposing the geometry, but gradually reshaping it. Widen a bank here, smooth a structure there. The surface flow changes as a consequence, without any single act being legible as the cause.
+
+The Great Man plants a dam. The ethical actor moves a stone.
+
+---
+
 ## Connection to Outsideness (vnenakhodimost')
 
 Bakhtin's outsideness (*vnye-nah-KHOH-dee-most'*) and Packer/Heidegger's horizon are complementary accounts of the same underlying structure, approached from different traditions.
@@ -40,6 +74,8 @@ Together they form a complete argument:
 - Outsideness explains *what* the external position specifically gains (value)
 
 Neither alone is sufficient. The horizon without outsideness gives you relativism — all positions equally partial, no privileged value to any. Outsideness without the horizon gives you a strong claim about external value without a structural account of why it holds. Together they justify the design of CT.
+
+Local coherence is itself the establishment of outsideness — not because it stands outside everything, but because it stands outside *other* local coherences. Each locality sees from where it stands, and those positions will not necessarily translate.
 
 ---
 
@@ -68,6 +104,7 @@ See: `ct-color-system-philosophy.md` for the full design rationale.
 - The interactive tetrahedron concept (rotate to dissolve implied privilege) is a candidate for a public-facing CT demonstration
 - Packer's account of lived hermeneutics connects to the pedagogical framing of CT as an educational tool — learning as horizon expansion, not information transfer
 - The "projection into the world" concept is the theoretical justification for RIP mode's divergent surface-area expansion: you want more projections, not premature convergence on one
+- The geometry-of-flow framework connects to EoB's account of participation as surface phenomenon and the ethics of distributed, incremental change; see `ethics-of-becoming.md`
 
 ---
 
