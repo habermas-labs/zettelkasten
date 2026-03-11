@@ -119,7 +119,54 @@ This principle applies at every scale: to participation in sociocultural life, t
 - **Morality as local coherence instantiation** — the behaviors that survive translation across moral instantiations are the ones tracking global coherence; the ones that don't are local artifacts; connects to `sociocultural-hermeneutics.md`
 
 ---
+# ethics-of-becoming.md — Addendum: Founding Role Gap
 
+**Type:** Pending update to existing permanent note
+**Target file:** ethics-of-becoming.md
+**Tags:** #ethics-of-becoming #crosstalk-history #emergent-role-behavior
+**Date:** 2026-03-11
+**Status:** Stub-ready — sufficient material from this session; no archaeology required
+**Tracker:** W006
+
+---
+
+## What Is Missing
+
+The current Developmental History section of ethics-of-becoming.md describes the founding role configuration (Critical Reader, External Observer, Co-developer) and states that roles were not designed in advance but were discoveries made under the pressure of real inquiry. What it does not capture:
+
+1. The original two-model configuration was Chat (Co-developer/Presenter) and Gemini (reader) — Claude was not initially utilized
+2. The absence of the External Observer role in that first configuration was a structural gap, not a design choice
+3. The gap was recognized mid-session when Skooter noticed Claude was not being utilized
+4. The External Observer role emerged from that recognition — it was the role the configuration needed but didn't have
+
+This is not a minor biographical detail. It is evidence for two of CT's core claims:
+
+- **Roles emerge from epistemic need, not design** — the External Observer wasn't theorized and then added; it became necessary and was then named
+- **CT's developmental history is itself a demonstration of the triangulation thesis** — the two-model configuration had a structural blind spot that only became visible from a third position
+
+---
+
+## Proposed Addition
+
+To be inserted in the Developmental History section, between "Gemini was brought in at the next level of maturity" and "The roles were not designed in advance":
+
+---
+
+*The founding configuration was not immediately a three-model session. The original experiment ran with Chat as Co-developer and Gemini as reader — Claude was present but not being utilized. The structural gap became visible when Skooter recognized mid-session that the configuration lacked an External Observer: the position outside the dialogue that could hold the surplus of seeing about the conversation's shape. Claude's assignment to that role was not a design decision made in advance but a recognition of what the configuration required once the gap was felt.*
+
+*This sequence is itself a demonstration of the claim it instantiates. The two-model configuration could not see its own blind spot from inside it. The need for a third position — genuinely outside the generative dialogue — became apparent only through the experience of its absence. The External Observer role emerged the way all the CT roles emerged: not from theory applied in advance, but from the pressure of real inquiry revealing what the inquiry needed.*
+
+---
+
+## Connected Notes
+
+- emergent-role-behavior-model-self-positioning.md — the broader pattern of roles emerging from epistemic need
+- vnenakhodimost-surplus-of-seeing.md — the theoretical grounding for the External Observer role specifically
+- W003 / ct-authorship-epistemic-labor.md (forthcoming) — CT's own development as a worked example of the epistemic process it describes
+
+---
+
+*Origin: Session discussion 2026-03-11*
 ## Sources (to be completed from Chat archive)
 
 - Festinger, L. — *A Theory of Cognitive Dissonance* (dissonance avoidance mechanism)
