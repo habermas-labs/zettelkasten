@@ -118,3 +118,4 @@ Claude's observation (per Skooter's relay): the three-matrix presentation sequen
 
 **CT archaeology:** BIG IDEAs 1–4, CATR scaffold analysis, talk structure → this note, synthesis thread, ct-tetras.md (In-Between Tetra origin), ct-epistemic-training-framework.md
 **TTT archaeology:** Flowchart design, DOK/ZPD alignment scaffolding, CATR ZPD cycle for small groups, PD session structure → TTT archaeology thread
+Routing note (2026-03-13): CATR/SPDT as proto-CT practice and knowing ↔ inquiring gerund framework pending their own permanent notes. Proto-In-Between Tetra formulation routes to ct-tetras.md and the-in-between.md via synthesis thread. Participation mode and GIGO matrix material referenced obliquely in participation-gigo-matrices.md (Origin section). This note remains the full archaeological record of the AI tool literacy thread.
