@@ -131,3 +131,4 @@ This is the pivot from ladder to map. The matrix is not a gradient toward Synerg
 
 **CT archaeology:** All of the above → this note, synthesis thread, participation-gigo-matrices.md, heteroglossia-compression-ai-provenance.md
 **TTT archaeology:** Nothing significant; thread is CT genealogy throughout
+Routing note (2026-03-13): Core matrix content — naming iteration arc (all three passes), typology vs. heuristic terminology, heat-map-as-fit topology, and relativism framing — developed into participation-gigo-matrices.md. Compressed heteroglossia provenance routes to heteroglossia-compression-ai-provenance.md. This note remains the full archaeological record of the human-AI comparison thread.
