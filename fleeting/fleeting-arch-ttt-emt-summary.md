@@ -94,3 +94,4 @@ Thread contains substantial Chalmers bibliography work: hard/easy problem origin
 
 **CT archaeology:** BIG IDEAs 1, 2, 3 + mind-land coinage → this note, synthesis thread, ZK permanent note development
 **TTT archaeology:** EMT summary, ZPD-AI tutoring model, Study Mode investigation, Chalmers bibliography, LinkedIn article series framework → TTT archaeology thread
+Routing note (2026-03-13): 3×3 origin session confirmed here — Bakhtinian migration from 2×2, participatory ontology of mind framing — developed into participation-gigo-matrices.md (Origin section). Cognitive onboarding and Vygotsky/hard problem material pending their own permanent notes. This note remains the full archaeological record of the EMT summary thread.
