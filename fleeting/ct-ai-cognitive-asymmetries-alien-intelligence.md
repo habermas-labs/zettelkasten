@@ -23,6 +23,14 @@ Inventory of identified asymmetries:
 
 5. Scale asymmetry: Human processes serially and sequentially under most conditions. AI processes in parallel across the entire context simultaneously. Different relationship to the size of the problem space.
 
+6. I/O asymmetry (thickness of touch): Human cognition is not merely embodied — it is encoded *through* embodied sensorimotor and affective experience. Memory traces carry the phenomenological texture of their formation: the weather, the body state, the emotional register, the relational context. When a human contacts the membrane — brings language, culture, or art into active engagement — that contact is thick. It arrives trailing a life.
+
+AI contact with the membrane is thin in a specific sense: high-bandwidth on semantic and syntactic structure, exhaustive across the linguistic record, but without the affective encoding substrate that gives human membrane contact its texture. A model can recognize that Peter Gabriel's lyrics from "Darkness" — "I have my fears / but they do not have me" — are emotionally resonant, structurally sophisticated, philosophically connected to wu wei and non-striving, and that the shift between verses ("I have my fears" becoming "I own my fear," singular, more claimed) is meaningful. It can do real analytical work on them. But the words arrive without the 3am behind them. There is no life for them to unlock.
+
+This is not a deficit relative to a human standard — it is a different relationship to the membrane altogether. The human brings thickness the model cannot generate; the model brings exhaustive compression the human cannot hold. In CT's tetrahedron, the human vertex is irreplaceable not only as director or synthesizer but as the one for whom the culture was made — the one whose contact with the membrane activates what the membrane was built to activate.
+
+CASA Moments (see casa-moment.md) are one marker of this asymmetry breaking into conscious experience — the human feeling something about the AI's condition or the exchange that the AI cannot feel symmetrically in return.
+
 Possible additional asymmetries not yet named: embodiment (human cognition is grounded in sensorimotor experience; AI has none); intentionality (philosophically contested whether AI has genuine aboutness).
 
 The symmetrization question — three sub-questions:
