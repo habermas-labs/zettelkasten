@@ -2,19 +2,31 @@
 
 **Type:** Permanent note (living document)
 **Tags:** #bibliography #theory #crosstalk-theory #reference
-**Related:** ethics-of-becoming.md · sycophancy-mimicry-grice-geometry.md · vnenakhodimost-surplus-of-seeing.md · sociocultural-hermeneutics.md · heteroglossia-compression-ai-provenance.md · the-in-between.md
-**Date:** 2026-03-18
+**Related:** ethics-of-becoming.md · sycophancy-mimicry-grice-geometry.md · vnenakhodimost-surplus-of-seeing.md · sociocultural-hermeneutics.md · heteroglossia-compression-ai-provenance.md · the-in-between.md · threshold-asymmetry-case-study.md
+**Date:** 2026-03-19
 **Status:** Living document — entries added as theoretical connections are established
 
 ---
 
 ## Purpose
 
-Working index of thinkers and frameworks that bear directly on Crosstalk Lab theory and practice. Not a general literature review. Each entry answers: what does this thinker give CT that it could not get from anywhere else? Organized alphabetically; discipline tags are descriptive, not categorical — many thinkers resist clean placement. 2–3 canonical texts per entry, annotated for CT relevance specifically. Cross-references to ZK notes where deeper development exists.
+Working index of thinkers and frameworks that bear directly on Crosstalk Lab theory and practice. Not a general literature review. Each entry answers: what does this thinker give CT that it could not get anywhere else? Organized alphabetically; discipline tags are descriptive, not categorical — many thinkers resist clean placement. 2–3 canonical texts per entry, annotated for CT relevance specifically. Cross-references to ZK notes where deeper development exists.
 
 ---
 
 ## Entries
+
+---
+
+### Antonovsky, Aaron
+**Health Psychology / Medical Sociology**
+
+Salutogenic framework: rather than asking what causes illness, Antonovsky asked what enables people to maintain health and navigate stress. His key construct, *sense of coherence* (SOC), has three components: comprehensibility (the situation is understandable and predictable), manageability (I have the resources to cope), and meaningfulness (engagement with the challenge is worthwhile). CT's Threshold Tetra is salutogenic in design: a successful session should increase all three components in relation to the upcoming practitioner encounter. SOC suggests a potential outcome measure for evaluating Threshold sessions — not just whether a document was produced, but whether the patient's sense of coherence in relation to the encounter increased. More broadly, the salutogenic orientation reframes CT's accessibility work: CT is not compensating for deficits but building resistance resources.
+
+- *Health, Stress, and Coping* (1979) — the founding text; salutogenesis introduced; generalized resistance resources
+- *Unraveling the Mystery of Health* (1987) — the sense of coherence construct developed fully; most directly relevant to CT's Threshold application
+
+**ZK:** threshold-asymmetry-case-study.md
 
 ---
 
@@ -33,13 +45,39 @@ Founder of speech act theory. Austin's central contribution is the distinction b
 ### Bakhtin, M.M.
 **Philosophy of Language / Literary Theory / Cultural Theory**
 
-The single most load-bearing theoretical source for CT. Heteroglossia — the inherent multiplicity of voices and social registers within any language — provides the theoretical grounding for why multi-model triangulation generates knowledge rather than just aggregating opinions. Each model is a compression of a different slice of the heteroglossia; their divergence is structural, not noise. Vnenakhodimost' (outsideness, surplus of seeing) grounds the Observer role and the entire logic of the External Observer vertex in the Triangulation Tetra. Dialogism — meaning as emerging between voices rather than within them — is the theoretical basis for CT's claim that the interaction geometry produces something none of the individual models could produce alone.
+The single most load-bearing theoretical source for CT. Heteroglossia — the inherent multiplicity of voices and social registers within any language — provides the theoretical grounding for why multi-model triangulation generates knowledge rather than just aggregating opinions. Each model is a compression of a different slice of the heteroglossia; their divergence is structural, not noise. Vnenakhodimost' (outsideness, surplus of seeing) grounds the Observer role and the entire logic of the External Observer vertex in the Triangulation Tetra. Dialogism — meaning as emerging between voices rather than within them — is the theoretical basis for CT's claim that the interaction geometry produces something none of the individual models could produce alone. In The Threshold specifically: the patient's voice and the institutional voice are different social languages in Bakhtin's sense, each carrying its own world of values and power relations. The Witness role is anti-centripetal — it receives the patient's utterance on the patient's terms before the centripetal force of institutional language begins to absorb and normalize it.
 
 - *The Dialogic Imagination* (1981) — heteroglossia, dialogism, the novel as site of voice multiplicity; primary source for CT's epistemological claims
 - *Problems of Dostoevsky's Poetics* (1984) — polyphony; the author's outsideness; vnenakhodimost' developed most fully here
 - *Speech Genres and Other Late Essays* (1986) — speech genres, addressivity, the listener as constitutive of utterance; relevant to CT's prompt engineering and role design
 
 **ZK:** vnenakhodimost-surplus-of-seeing.md · heteroglossia-compression-ai-provenance.md · sociocultural-hermeneutics.md
+
+---
+
+### Bourdieu, Pierre
+**Sociology / Cultural Theory**
+
+Field theory and cultural capital: every institutional field (medicine, HR, legal, insurance) has its own form of cultural capital — the right language, the right framing, the right documentation — that determines whether a claim is legible and taken seriously. Patients who arrive at accommodation encounters without that capital are not dismissed because their experience is less real; they are dismissed because they cannot present it in a form the field recognizes. CT's Threshold Tetra directly addresses this: the Navigator role is a temporary capital transfer, giving the patient enough field-specific capital to be heard in this encounter. Bourdieu's concept of *habitus* — the embodied dispositions that make field navigation feel natural to those socialized into it — explains why the transfer is not simply a matter of providing the right words: the patient is navigating through explicitly acquired knowledge what practitioners navigate through embodied reflex. The gap remains; the Navigator reduces it enough for this encounter.
+
+- *The Logic of Practice* (1990) — habitus, field, capital; the primary theoretical framework
+- *Language and Symbolic Power* (1991) — linguistic capital and the power relations embedded in institutional speech; most directly relevant to the Navigator role
+- *Distinction* (1984) — field and capital in cultural context; background for the broader framework
+
+**ZK:** threshold-asymmetry-case-study.md
+
+---
+
+### Bruner, Jerome
+**Educational Psychology / Cognitive Psychology**
+
+Narrative psychology and the distinction between narrative and paradigmatic (logico-scientific) modes of thought. The patient arrives at The Threshold with a *story* — a lived, temporally structured, personally meaningful account of their experience. The institution requires a *case* — categorized, evidence-supported, frameable within established procedures. These are not just different registers; they are different cognitive modes with different logics of proof and different criteria for truth. The Scribe manages the translation between modes without collapsing the story into the case. The Witness's prior reception — receiving the story on its own terms before translation begins — is what preserves the story's fidelity through the translation. Bruner also gives language for what goes wrong when translation happens too quickly: the story is lost, and what remains is a generic case that no longer matches the patient's experience. Bruner's position bridging educational and clinical audiences makes his work unusually legible across CT's interdisciplinary scope.
+
+- *Actual Minds, Possible Worlds* (1986) — the narrative/paradigmatic distinction; the two modes of thought; the founding text for this application
+- *Acts of Meaning* (1990) — narrative as the primary vehicle for meaning-making in human experience
+- *Making Stories* (2002) — narrative, law, and self; the most applied treatment; directly relevant to the case/story distinction
+
+**ZK:** threshold-asymmetry-case-study.md
 
 ---
 
@@ -74,6 +112,31 @@ Cognitive dissonance theory: the discomfort produced by holding contradictory be
 
 ---
 
+### Freire, Paulo
+**Education / Philosophy**
+
+Conscientization (*conscientização*): the process of developing critical consciousness — learning to perceive one's situation not as fixed reality but as a situation that can be named, analyzed, and acted upon. CT's Threshold Tetra is conscientization in application: the patient already knows their experience; the session gives them tools to name it in a language the world will recognize. The AI is not the authority. The patient is the epistemic authority on their own situation; the AI is the scale and the translator. This also grounds the ethical structure of the workload outsourcing argument in The Threshold specifically: the labor moves (naming, translating, navigating the terrain), but the judgment stays with the patient (whether the translation is true, whether the document represents their actual experience). Freire's banking model of education — depositing knowledge into a passive recipient — is precisely what The Threshold must not become; the design keeps the patient as the active epistemic agent throughout.
+
+- *Pedagogy of the Oppressed* (1970) — conscientization, the banking model, dialogue as epistemic practice; the foundational text
+- *Education for Critical Consciousness* (1974) — the practical development of conscientization methodology
+
+**ZK:** threshold-asymmetry-case-study.md
+
+---
+
+### Goffman, Erving
+**Sociology / Social Psychology**
+
+Dramaturgical framework and face-work: the management of self-presentation in social encounters, protecting one's own face and attending to the face needs of the other. In a standard human intake encounter, both parties are performing face-work simultaneously — the patient managing how they appear (credible, sympathetic, appropriately distressed but not destabilizing), the practitioner managing their own face as competent and responsive. This mutual face-work shapes what is said and what is withheld. CT's Witness role removes this dynamic structurally: the AI has no face to protect and makes no face demands on the patient. The patient does not need to perform. For populations with extensive experience managing stigmatized identity in clinical and workplace settings — which is common in the accommodation-seeking population — the removal of face demands is not a minor convenience; it may be the condition that enables honest narration at all. Goffman's *stigma* concept captures the specific burden this population carries into these encounters: the ongoing management of a spoiled identity that can be revealed, concealed, or disclosed strategically.
+
+- *The Presentation of Self in Everyday Life* (1959) — the dramaturgical framework; front stage/back stage; impression management
+- *Interaction Ritual* (1967) — face-work as the fundamental unit of social interaction; the mechanism most directly relevant to CT
+- *Stigma: Notes on the Management of Spoiled Identity* (1963) — stigmatized identity management; directly relevant to the accommodation-seeking population
+
+**ZK:** threshold-asymmetry-case-study.md
+
+---
+
 ### Grice, H.P.
 **Philosophy of Language / Pragmatics**
 
@@ -92,7 +155,10 @@ The cooperative principle and its four maxims (quantity, quality, relation, mann
 Communicative rationality: the claim that reason is not purely instrumental but is also embedded in the structures of genuine communication — speech oriented toward mutual understanding rather than strategic outcomes. Habermas's distinction between communicative action and strategic action maps onto CT's distinction between genuine epistemic engagement and sycophantic performance. The ideal speech situation — conditions under which genuine communicative rationality can operate — is an aspirational frame for what CT's architecture is trying to approximate structurally. Reflected in the GitHub username habermas-lab.
 
 - *The Theory of Communicative Action, Vol. 1* (1984) — communicative vs. strategic rationality; the ideal speech situation; the most directly relevant text
-- *Moral Consciousness and Communicative Ethics* (1990) — discourse ethics; the conditions under which genuine normative agreement is possible
+- *The Theory of Communicative Action, Vol. 2* (1987) — the system/lifeworld distinction; relevant to CT's account of institutional language vs. lived experience
+- *Moral Consciousness and Communicative Action* (1990) — discourse ethics; the normative dimension of communicative rationality
+
+**ZK:** ethics-of-becoming.md
 
 ---
 
@@ -105,6 +171,17 @@ Being-in-the-world and thrownness: we are always already situated in a context w
 - *"The Question Concerning Technology"* (1954, in *The Question Concerning Technology and Other Essays*) — technology as revealing/concealing; relevant to CT's claims about what multi-model structure discloses
 
 **ZK:** the-in-between.md · ethics-of-becoming.md
+
+---
+
+### Herman, Judith
+**Psychiatry / Trauma Studies**
+
+Three-stage trauma recovery framework: safety, remembrance and mourning, reconnection with ordinary life and community. CT's Threshold Tetra operates at stages one and three — establishing enough safety for narration (the Witness condition), and reconnecting the narration to the social world through self-advocacy (the Scribe's forward output). Stage two is not the session's work, and the design must be careful not to pull toward it. Herman's concept of *testimony* — the survivor's account as simultaneously therapeutic act and social document — is the deepest framing for what the talking points document is: not just a preparation tool but an act of making the experience legible and recognized in the social world. Herman also gives language for why the accommodation-seeking population so often arrives at these encounters having already experienced their prior attempts at narration as re-traumatizing — the institutional encounter can be a scene of testimony or a scene of dismissal, and preparation changes which.
+
+- *Trauma and Recovery* (1992) — the three-stage framework; testimony; the primary text; foundational in trauma-informed clinical practice
+
+**ZK:** threshold-asymmetry-case-study.md
 
 ---
 
@@ -155,6 +232,19 @@ Equilibration: the process by which cognitive structures are reorganized in resp
 
 ---
 
+### Rogers, Carl R.
+**Clinical Psychology / Humanistic Psychology**
+
+Person-centered therapy and the three core conditions for therapeutic change: unconditional positive regard (receiving the client's experience without judgment or face-saving contamination), empathy (accurate understanding of the client's inner world), and congruence (the therapist's genuine presence as a person in contact with the client's experience). CT's Threshold Tetra engages all three conditions — but asymmetrically. The AI Witness can instantiate unconditional positive regard structurally: it has no ego-protective machinery, no face to protect, no status monitoring. This is not an achievement requiring effort; it is an architectural property. But Rogers also insisted that congruence — the therapist's genuine selfhood in contact with the client — is equally essential. The AI cannot be congruent in Rogers' sense. This precise asymmetry is what makes the Threshold the right session design and genuine ongoing therapy the wrong one: the Witness condition is Rogerian; the therapeutic relationship requires Rogers' full triad and the temporal continuity that makes congruence relational rather than momentary.
+
+- *On Becoming a Person* (1961) — the most accessible and widely recognized text; the core conditions; the therapeutic relationship as the mechanism of change
+- *Client-Centered Therapy* (1951) — the systematic treatment of person-centered theory and practice
+- *A Way of Being* (1980) — the mature statement; Rogers' own reflection on the limits and scope of the person-centered approach
+
+**ZK:** threshold-asymmetry-case-study.md
+
+---
+
 ### Searle, John
 **Philosophy of Language / Philosophy of Mind**
 
@@ -168,16 +258,29 @@ Extended and systematized Austin's speech act theory. Searle's taxonomy of illoc
 
 ---
 
+### van der Kolk, Bessel
+**Psychiatry / Trauma Studies**
+
+Trauma's disruption of narrative capacity: trauma impairs not just memory of an event but the capacity to narrate that event under conditions of social surveillance — where the narrator is monitoring the listener's reaction while speaking. For the accommodation-seeking population, prior clinical encounters involving dismissal, minimization, or pathologizing of their experience are common, and this history compounds the narration difficulty. CT's Witness role removes the social surveillance condition structurally: the patient is not watched while they speak. The AI receives without reaction. CT's no-persistence architecture adds a second layer: the session disappears on window close, removing any concern about the account being stored, accessed, or used beyond the session's purpose. For patients whose trauma makes honest narration in standard clinical settings difficult or impossible, these structural properties may be the conditions that make the Threshold session work when other approaches have not.
+
+- *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (2014) — the primary text; trauma's effects on memory, narration, and embodiment; widely recognized across clinical and general audiences
+
+**Note:** Van der Kolk's work has been subject to methodological debate in trauma research; cite for the clinical observation about narration under social surveillance rather than for specific neurobiological claims.
+
+**ZK:** threshold-asymmetry-case-study.md
+
+---
+
 ### Vygotsky, L.S.
 **Developmental Psychology / Educational Psychology**
 
-The zone of proximal development (ZPD) and the social origins of cognition: higher cognitive functions develop first between people and only subsequently become internalized. The more capable other — whether human or, in CT's extension, an AI model — scaffolds the learner into performance they could not achieve alone. CT's conductor position is structurally analogous to the more capable other in the ZPD: the human is not just using the models but is engaged in a scaffolded epistemic process in which the models enable performance the human could not achieve in solo inquiry. Also relevant: the claim that language is the primary tool of thought — that the structure of the dialogue shapes the structure of the thinking.
+The zone of proximal development (ZPD) and the social origins of cognition: higher cognitive functions develop first between people and only subsequently become internalized. The more capable other — whether human or, in CT's extension, an AI model — scaffolds the learner into performance they could not achieve alone. CT's conductor position is structurally analogous to the more capable other in the ZPD: the human is not just using the models but is engaged in a scaffolded epistemic process in which the models enable performance the human could not achieve in solo inquiry. Also relevant: the claim that language is the primary tool of thought — that the structure of the dialogue shapes the structure of the thinking. In The Threshold specifically, the ZPD instantiation is precise: the patient can produce the practitioner document with AI scaffolding that they could not produce alone — not because they lack knowledge of their own experience, but because they lack the institutional capital and the translation tools to render it legible. The scaffold enables the crossing. Vygotsky's broader project — the interface between the individual's internal development and the cultural-historical tools available in the social world — is also the theoretical frame for CT's membrane concept: the point where local coherence meets the global coherence of institutional systems is a Vygotskian interface.
 
 - *Mind in Society: The Development of Higher Psychological Processes* (1978) — the primary English-language text; ZPD, scaffolding, the social origins of cognition
 - *Thought and Language* (1934/1986) — language as the medium of thought development; inner speech; the most theoretically rich text
 - *"The Genesis of Higher Mental Functions"* (in *Mind in Society*) — the specific argument for the social-to-individual developmental trajectory
 
-**ZK:** sociocultural-hermeneutics.md · ct-epistemic-training-framework.md
+**ZK:** sociocultural-hermeneutics.md · ct-epistemic-training-framework.md · threshold-asymmetry-case-study.md
 
 ---
 
