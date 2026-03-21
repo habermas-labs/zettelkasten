@@ -44,7 +44,22 @@ Against this constant flow, three distinct coherences can be identified:
 The metaperspective is an idealized limit — objectivity as non-participation is a fiction, and the metaperspective cannot be fully occupied. But it is the direction EoB moves toward: not a claim about what is ethical from within any local coherence, but a framework for evaluating the nature of participation across them.
 
 ---
-
+ 
+### Temporal Velocity and Domestication Pressure
+ 
+The river metaphor carries an implication that deserves explicit development: rivers have velocity. A fast-moving current and a slow-moving current are both rivers, but they exert different pressures on everything within them.
+ 
+Temporal coherence names the persistence of cultural structures through time. But it does not specify the pace at which those structures move and change. That pace — the temporal velocity of the cultural field — determines the domestication pressure any individual or community operates under.
+ 
+Domestication is fast because it is assimilation: new material slots into existing structure without requiring restructuring. Horizon fusion is slow because restructuring takes time that is independent of effort or intent. A practitioner can be maximally willing, maximally aware, and still unable to rush the process by which genuine contact with the outside reorganizes the inside. The restructuring has its own tempo.
+ 
+When the cultural field moves quickly — when new ideas, practices, technologies, and social forms arrive faster than the dwelling time horizon fusion requires — the gap between the pace of arrival and the pace of genuine integration creates structural pressure toward domestication. The current carries ideas past the point where they could do their genuine work. The result is not malice or laziness but a field in which domestication is the path of least resistance and fusion requires active, sustained resistance to the current's momentum.
+ 
+This is a structural claim, not a moral one. A fast-moving cultural field does not produce worse people; it produces conditions in which genuine restructuring is harder to sustain. Conversely, a cultural field with lower temporal velocity — pre-modern craft traditions, certain monastic communities, some indigenous knowledge systems — generates lower domestication pressure not because its members are more virtuous but because the surrounding current does not carry ideas away before they can do their work. The friction required to maintain the In-Between is itself culturally calibrated. What counts as effortful resistance in one cultural field may be the ambient condition in another.
+ 
+The hermeneutic circle requires time to complete. Breakdown must be recognized; its source in pre-understanding must be traced; the present-at-hand state must be held rather than immediately repaired. Each step has a tempo that cannot be fully compressed. A fast-moving cultural field actively interrupts the circle — not by making any single step impossible, but by making the sustained sequence unlikely. The conditions that would allow the circle to complete are eroded before they can be maintained.
+ 
+This connects temporal coherence to the In-Between directly: residing intentionally in the In-Between is, in part, a practice of creating local conditions — a membrane — that insulates the practitioner's dwelling time from the velocity of the surrounding field. Not isolation from the outside, but protection of the time the restructuring requires.
 ## The Geometry of the Flow
 
 Surface currents are determined by the geometries through which they flow. Banks narrow or widen. Structures on the bottom produce eddies, rapids, unexpected accelerations at the surface. The geometry does not merely alter the shape and direction of the flow — it alters the speed.
@@ -52,6 +67,8 @@ Surface currents are determined by the geometries through which they flow. Banks
 Critically: many of these structures are not visible from the surface. Only their effects can be observed. They can only be inferred if the locality from which the flow is being read can take in enough of the surface simultaneously. A narrow local coherence sees the eddy but cannot place it. A broader view begins to see patterns across multiple surface effects and can start to reconstruct the invisible geometry underneath.
 
 This is the structural argument for the metaperspective: not transcendence of the flow, but sufficient breadth of surface reading to infer what cannot be directly seen.
+
+---
 
 ### Momentum and the Rejection of the Great Man
 
