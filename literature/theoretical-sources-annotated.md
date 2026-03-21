@@ -134,8 +134,12 @@ Conscientization (*conscientização*): the process of developing critical consc
 
 ### Gadamer, Hans-Georg
 **Philosophy / Hermeneutics**
+
 The fusion of horizons (*Horizontverschmelzung*): genuine understanding of the other requires not the annexation of their meaning into existing interpretive structure, but a restructuring of one's own horizon through sustained contact with genuine otherness. Directly relevant to CT's account of domestication — the default cognitive and cultural move of assimilating new ideas without allowing them to do their restructuring work. Gadamer's account of what genuine fusion requires (time, not just effort; a willingness to be changed) is the philosophical grounding for why the InBetween must be actively maintained rather than passively entered.
+
 - *Truth and Method* (1960/1975) — the foundational text; the fusion of horizons, the hermeneutic circle, understanding as event rather than method
+
+**ZK:** the-in-between.md · sociocultural-hermeneutics.md
 
 ---
 
