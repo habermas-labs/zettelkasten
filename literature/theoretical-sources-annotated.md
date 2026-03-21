@@ -101,6 +101,14 @@ The extended mind thesis: cognitive processes are not bounded by skin and skull 
 
 ---
 
+### Csikszentmihalyi, Mihaly
+**Psychology / Positive Psychology**
+Flow theory: the experiential state produced when challenge and skill are optimally calibrated — not frictionless, but friction incorporated rather than encountered. Directly relevant to CT as the phenomenological complement to Piaget's equilibration: flow is what Piaget's maintained disequilibrium feels like from the inside when the practitioner has developed sufficient capacity to inhabit it without being overwhelmed. Relevant also to the InBetween Tetra's design rationale — the goal is not to remove friction but to calibrate it so that the session stays in the productive zone between boredom and anxiety. The downstream state of flow — Heidegger's ready-to-hand — is where genuine restructuring has been incorporated and action becomes transparent. The sequence In-Between → flow → ready-to-hand describes the developmental arc of deepening epistemic capacity.
+- *Flow: The Psychology of Optimal Experience* (1990) — the primary text; the challenge-skill balance, the conditions of flow, the phenomenology of optimal engagement
+**ZK:** the-in-between.md
+
+---
+
 ### Festinger, Leon
 **Social Psychology**
 
@@ -121,6 +129,13 @@ Conscientization (*conscientização*): the process of developing critical consc
 - *Education for Critical Consciousness* (1974) — the practical development of conscientization methodology
 
 **ZK:** threshold-asymmetry-case-study.md
+
+---
+
+### Gadamer, Hans-Georg
+**Philosophy / Hermeneutics**
+The fusion of horizons (*Horizontverschmelzung*): genuine understanding of the other requires not the annexation of their meaning into existing interpretive structure, but a restructuring of one's own horizon through sustained contact with genuine otherness. Directly relevant to CT's account of domestication — the default cognitive and cultural move of assimilating new ideas without allowing them to do their restructuring work. Gadamer's account of what genuine fusion requires (time, not just effort; a willingness to be changed) is the philosophical grounding for why the InBetween must be actively maintained rather than passively entered.
+- *Truth and Method* (1960/1975) — the foundational text; the fusion of horizons, the hermeneutic circle, understanding as event rather than method
 
 ---
 
