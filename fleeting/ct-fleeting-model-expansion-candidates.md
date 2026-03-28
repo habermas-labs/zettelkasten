@@ -1,4 +1,11 @@
-# ct-fleeting-model-expansion-candidates.md
+# CT Fleeting — Model Expansion Candidates
+
+**Type:** Fleeting note
+**Tags:** #crosstalk #model-expansion #byok #provenance #color-system
+**Related:** CT-099 · heteroglossia-compression-ai-provenance.md
+**Date:** 2026-03-17
+
+---
 
 Current CT implementation uses Claude (Anthropic), ChatGPT (OpenAI), and Gemini (Google) as the three founding vertices. As BYOK architecture matures and model chip selection becomes user-configurable, expansion to additional providers warrants consideration. This note captures the reasoning from the first structured survey (2026-03-17).
 
@@ -26,4 +33,4 @@ Any expansion to additional models should follow the same principle: research th
 
 This also has a practical implication: the light mode palette adjustments made for the founding three (darkening accents to read against light backgrounds) will need to be applied consistently to any new model colors.
 
-**Tracker:** entry pending — model expansion is a planned feature tied to BYOK maturation and user-configurable model chips.
+**Tracker:** CT-099 — model expansion candidates.
