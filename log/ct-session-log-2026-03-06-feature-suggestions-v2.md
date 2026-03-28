@@ -1,26 +1,12 @@
----
-title: Session Log — Feature Suggestions v2
-type: log
-tags:
-  - crosstalk
-  - session-log
-  - interaction-design
-  - geometry
-  - tetras
-  - hedra
-  - elevator-speech
-related:
-  - dimensionality-ladder.md
-  - polyhedra-interaction-geometry.md
-  - hedra-facing-presets.md
-  - interaction-geometries-whitepaper.md
-  - ct-interaction-design-taxonomy.md
-  - CT-TRACKER.md
-date: 2026-03-06
-status: closed
----
-
 # Session Log — Feature Suggestions v2
+
+**Type:** Log note
+**Tags:** #crosstalk #session-log #interaction-design #geometry #tetras #hedra #elevator-speech
+**Related:** dimensionality-ladder.md · polyhedra-interaction-geometry.md · hedra-facing-presets.md · ct-interaction-design-taxonomy.md · CT-TRACKER.md
+**Date:** 2026-03-06
+**Status:** Closed
+
+---
 
 ## Context
 
