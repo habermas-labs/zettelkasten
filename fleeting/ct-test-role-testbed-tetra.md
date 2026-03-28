@@ -1,13 +1,14 @@
----
-title: Role Testbed Tetra — Experimental Container
-type: fleeting
-tags: #crosstalk-theory #tetras #experimental-design #role-presets #meta-ct
-related: ct-role-test-rotation-conditions.md · ct-role-test-priming-cross-pollination.md · ct-tetras.md · ct-epistemic-training-framework.md
-date: 2026-03-13
-status: capture
+# Role Testbed Tetra — Experimental Container
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #tetras #experimental-design #role-presets #meta-ct
+**Related:** ct-test-role-rotation-conditions.md · ct-test-role-priming-cross-pollination.md · ct-tetras.md · ct-epistemic-training-framework.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
-Core concept: A dedicated Tetra configuration designed not for substantive output but for running controlled role experiments. Meta-CT — CT studying its own role mechanics. The container that the rotation conditions (ct-role-test-rotation-conditions.md) and priming experiments (ct-role-test-priming-cross-pollination.md) feed into as the experimental program matures.
+Core concept: A dedicated Tetra configuration designed not for substantive output but for running controlled role experiments. Meta-CT — CT studying its own role mechanics. The container that the rotation conditions (ct-test-role-rotation-conditions.md) and priming experiments (ct-test-role-priming-cross-pollination.md) feed into as the experimental program matures.
 
 Design requirements:
 - Minimal session structure that isolates role variables
