@@ -1,8 +1,11 @@
+# Archaeology Capture — AI Tool Literacy Thread (TTT/CT Genealogy)
+
 **Type:** Fleeting — archaeology capture
+**Tags:** #archaeology #ct-genealogy #catr #spdt #in-between #participation-modes #tool-literacy
+**Related:** participation-gigo-matrices.md · the-in-between.md · ct-epistemic-training-framework.md · workload-outsourcing.md · ethics-of-ai-engagement-practice.md · heteroglossia-compression-ai-provenance.md
 **Source thread:** ambi-ai-tool-literacy.txt (ChatGPT)
 **Project track:** CT genealogy (TTT surface; theoretical development migrated to CT)
-**Date captured:** 2026-03-13
-**Related:** participation-gigo-matrices.md · the-in-between.md · ct-epistemic-training-framework.md · workload-outsourcing.md · ethics-of-ai-engagement-practice.md · heteroglossia-compression-ai-provenance.md
+**Date:** 2026-03-13
 
 ---
 
@@ -41,9 +44,9 @@ Both readings are pedagogically true, operating at different cognitive layers si
 **Location:** "Okay, now how about this for a pivot..." (approximately line 2150 in transcript)
 
 **Skooter's formulation:**
-> "When using AI tools as cognitive instruments, students are able to construct their own scaffolds for learning that create a comfort zone for dealing with the ambiguity between deep, meaningful, prolonged inquiry and formalizing the knowledge that can be gained by that inquiry."
+"When using AI tools as cognitive instruments, students are able to construct their own scaffolds for learning that create a comfort zone for dealing with the ambiguity between deep, meaningful, prolonged inquiry and formalizing the knowledge that can be gained by that inquiry."
 
-**What this is:** The In-Between Tetra's theoretical core, articulated before the Tetra existed as a named CT interaction structure. AI reframed not as helper but as space-maker — the cognitive instrument that enables learners to construct their own scaffolds for inhabiting productive tension rather than collapsing it. Chat's characterization: "You've legitimized *dwelling*."
+**What this is:** The In-Between Tetra's theoretical core, articulated before the Tetra existed as a named CT interaction structure. AI reframed not as helper but as space-maker — the cognitive instrument that enables learners to construct their own scaffolds for inhabiting productive tension rather than collapsing it. Chat's characterization: "You've legitimized dwelling."
 
 **The scaffold reframe:** Standard scaffolding is teacher-designed, temporary, meant to be removed. Skooter proposes learner-constructed scaffolds, dynamically adjusted, used to manage epistemic tension rather than eliminate it. This aligns with the In-Between Tetra's design intent: not to resolve the tension but to support inhabiting it long enough for genuine understanding to emerge.
 
@@ -71,7 +74,7 @@ Both readings are pedagogically true, operating at different cognitive layers si
 
 **DOK as epistemic ceiling:** Skooter's observation — the quality of inquiring determines the depth of knowing achievable, which maps directly to Webb's Depth of Knowledge levels. Low-inquiry → caps at recall. Sustained, state-based inquiry → enables DOK 4 (extended reasoning). "The form of inquiring determines the epistemic ceiling." Chat: "Feature, not a bug." This reframes inquiry avoidance diagnostically: shallow knowing isn't a failure of inquiry, it's a symptom of shallow inquiring.
 
-**ZK candidate:** Permanent note connecting to the-in-between.md (expands the dyad table), sociocultural-hermeneutics.md, and ct-epistemic-training-framework.md. Also relevant to the unpublished paper concept on ego involvement structures.
+**ZK candidate:** Permanent note connecting to the-in-between.md (expands the dyad table), sociocultural-hermeneutics.md, and ct-epistemic-training-framework.md.
 
 ---
 
@@ -79,7 +82,7 @@ Both readings are pedagogically true, operating at different cognitive layers si
 
 **Note:** Cognitive onboarding was coined in the ambi-emt-summary.txt thread. Here it appears as an active analytical concept in Skooter's talk outline:
 
-> "The danger of AI tools and how we often teach or perceive student use of them is that this use short-circuits attempts to reach greater depths of knowledge. The thinking remains offloaded on the tool and is not onboarded to the student in a deep, meaningful way."
+"The danger of AI tools and how we often teach or perceive student use of them is that this use short-circuits attempts to reach greater depths of knowledge. The thinking remains offloaded on the tool and is not onboarded to the student in a deep, meaningful way."
 
 This is the term being deployed, not just coined. It names the failure mode CATR is designed to address: inquiry that remains externalized on the tool rather than being internalized as reasoning capacity. The move from offloading to onboarding is what CATR's deliberate comparison structure supports.
 
