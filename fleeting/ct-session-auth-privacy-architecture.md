@@ -1,10 +1,11 @@
----
-title: Session Authentication, Cross-Session Identity, and Privacy by Architecture
-type: fleeting
-tags: #crosstalk-app #privacy #security #architecture #local-coherence #memory-asymmetry
-related: ct-interaction-design-taxonomy.md · temporal-asymmetry-human-ai.md · local-coherence-ai-instantiation.md
-date: 2026-03-13
-status: capture
+# Session Authentication, Cross-Session Identity, and Privacy by Architecture
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-app #privacy #security #architecture #local-coherence #memory-asymmetry
+**Related:** ct-interaction-design-taxonomy.md · local-coherence-ai-instantiation.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
 Core question: Should CT models be aware of the user's identity across sessions? And is there any current mechanism by which they could be?
