@@ -1,17 +1,18 @@
----
-title: CT as Pedagogical Instrument — Role Rotation, Metacognition, and Professional Training
-type: fleeting
-tags: #crosstalk-theory #pedagogy #tetras #training #metacognition #education #grant-writing
-related: ct-epistemic-training-framework.md · reciprocal-teaching-ct-preset.md · ct-role-test-priming-cross-pollination.md · ethics-of-ai-engagement-practice.md
-date: 2026-03-13
-status: capture
+# CT as Pedagogical Instrument — Role Rotation, Metacognition, and Professional Training
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #pedagogy #tetras #training #metacognition #education #grant-writing
+**Related:** ct-epistemic-training-framework.md · reciprocal-teaching-ct-preset.md · ct-test-role-priming-cross-pollination.md · ethics-of-ai-engagement-practice.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
 Origin: Gemini's "skill development for human participants" observation in the Fundraiser Tetra triangulation session (2026-03-13). Role rotation in CT-mediated sessions may produce learning benefits for human participants analogous to the documented benefits in Palincsar and Brown's Reciprocal Teaching — inhabiting a role builds genuine competency, not just performance of that competency.
 
 Three distinct training questions (do not conflate):
 
-1. Model training — how AI models learn roles, priming, cross-pollination effects on output quality. Experimental, testable. See ct-role-test-priming-cross-pollination.md.
+1. Model training — how AI models learn roles, priming, cross-pollination effects on output quality. Experimental, testable. See ct-test-role-priming-cross-pollination.md.
 
 2. Conductor training — the epistemic training framework already in progress (CT-082). How humans learn to orchestrate CT sessions effectively. Layer 2 knowledge: knowing how each model thinks, not just how to operate the interface.
 
