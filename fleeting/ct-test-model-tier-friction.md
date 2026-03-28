@@ -1,10 +1,11 @@
----
-title: Intra-Model Tier Friction — Experimental Design
-type: fleeting
-tags: #crosstalk-theory #model-selection #experimental-design #divergence #friction
-related: CT-TRACKER 018 · emergent-role-behavior-model-self-positioning.md · ct-epistemic-training-framework.md
-date: 2026-03-14
-status: capture
+# Intra-Model Tier Friction — Experimental Design
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #model-selection #experimental-design #divergence #friction
+**Related:** emergent-role-behavior-model-self-positioning.md · ct-epistemic-training-framework.md
+**Date:** 2026-03-14
+**Status:** Capture
+
 ---
 
 Core question: Does divergence occur between tiers of the same AI family (e.g., Haiku vs. Sonnet vs. Opus within Claude), and if so, does it carry the same epistemic signal as cross-LLM divergence?
@@ -23,6 +24,6 @@ Hypothesis: intra-family divergence, if it exists, will be primarily depth-of-re
 
 Implication for CT theory: if the hypothesis holds, it suggests two distinct sources of epistemic value in multi-model triangulation — architectural divergence (cross-LLM, positional) and depth divergence (intra-family, elaboration). These may be complementary rather than redundant. A session combining both could in principle surface both kinds of signal.
 
-Implication for UI: CT-018 (model version selection) becomes more than a settings convenience feature — it is the mechanism for accessing depth divergence as a distinct epistemic mode. Framing in documentation matters: this is not "pick your preferred model" but "select your reasoning depth configuration."
+Implication for UI: CT-097 (model version selection) becomes more than a settings convenience feature — it is the mechanism for accessing depth divergence as a distinct epistemic mode. Framing in documentation matters: this is not "pick your preferred model" but "select your reasoning depth configuration."
 
-Forward: CT-TRACKER 018 · cross-LLM friction session notes (pending)
+Forward: cross-LLM friction session notes (pending)
