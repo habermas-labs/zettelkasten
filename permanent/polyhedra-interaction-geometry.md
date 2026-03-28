@@ -1,23 +1,11 @@
----
-title: Polyhedra — Geometric Taxonomy of Interaction Configurations
-type: permanent
-tags:
-  - crosstalk
-  - interaction-design
-  - geometry
-  - polyhedra
-  - tetras
-  - hedra
-related:
-  - dimensionality-ladder.md
-  - hedra-facing-presets.md
-  - ct-interaction-design-taxonomy.md
-  - vnenakhodimost-surplus-of-seeing.md
-date: 2026-03-06
-status: stub
----
-
 # Polyhedra — Geometric Taxonomy of Interaction Configurations
+
+**Type:** Permanent note
+**Tags:** #crosstalk #interaction-design #geometry #polyhedra #tetras #hedra
+**Related:** dimensionality-ladder.md · hedra-facing-presets.md · ct-interaction-design-taxonomy.md · vnenakhodimost-surplus-of-seeing.md
+**Date:** 2026-03-06
+
+---
 
 ## Core Concept
 
