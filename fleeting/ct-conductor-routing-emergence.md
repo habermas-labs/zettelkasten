@@ -1,9 +1,10 @@
-# ct-conductor-routing-emergence
+# CT Conductor Routing Emergence
 
-**type:** fleeting
-**date:** 2026-03-22
-**source:** ct-session-20260322-c67c40-mdr-debug.md
-**tags:** conductor-mode, routing, role-context-mimicry, triangulation, parallel-mode
+**Type:** Fleeting note
+**Tags:** #conductor-mode #routing #role-context-mimicry #triangulation #parallel-mode
+**Related:** emergent-role-behavior-model-self-positioning.md · role-context-mimicry-self-reflection.md
+**Date:** 2026-03-22
+**Source:** ct-session-20260322-c67c40-mdr-debug.md
 
 ---
 
