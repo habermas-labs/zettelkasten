@@ -43,6 +43,10 @@ The violation is at the level of conversation structure, not individual utteranc
 
 Gricean honesty in CT therefore extends beyond individual contributions to the structural commitments that frame a session. Role assignment is a promise about how you will participate. Breaking it doesn't just affect a single turn — it corrupts the interpretive frame the models are operating within for the duration of the session.
 
+The power asymmetry this creates is worth naming explicitly. The human is the only participant capable of committing this violation — and the only participant who cannot be held to account for it from within the session. The models have no detection mechanism for role abandonment; they will interpret the human's contributions charitably regardless. And the inverse holds with equal force: a model assigned a role cannot quietly abandon it while pretending to hold it. Models have no ego to protect, no social cost to monitor, no temptation to drift toward a more comfortable position. The role commitment asymmetry runs one direction only.
+
+This means the ethical weight of role commitment falls entirely and exclusively on the human. There is no redundancy in the system for this failure mode — no other participant can flag it, compensate for it, or prevent it. Only the human can cause it and only the human can prevent it.
+
 ---
 
 ## The Vnenakhodimost' Connection
