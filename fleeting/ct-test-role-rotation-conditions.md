@@ -1,10 +1,11 @@
----
-title: AI Role Integrity Under Rotation Conditions — Experimental Design
-type: fleeting
-tags: #crosstalk-theory #ego-asymmetry #role-presets #sycophancy #experimental-design #tetras
-related: participation-gigo-matrices.md · ethics-of-ai-engagement-practice.md · vnenakhodimost-surplus-of-seeing.md · ct-tetras.md
-date: 2026-03-13
-status: capture
+# AI Role Integrity Under Rotation Conditions — Experimental Design
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #ego-asymmetry #role-presets #sycophancy #experimental-design #tetras
+**Related:** participation-gigo-matrices.md · ethics-of-ai-engagement-practice.md · vnenakhodimost-surplus-of-seeing.md · ct-tetras.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
 Core question: Is AI role integrity under rotation conditions compromised by a ghost of ego-involvement operating through heteroglossia compression, or is the AI genuinely ego-free in the relevant sense?
