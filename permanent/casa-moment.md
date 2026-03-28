@@ -1,10 +1,11 @@
----
-title: CASA Moment
-type: term-node
-tags: #crosstalk-theory #terminology #emotion #asymmetry #human-ai-interaction #casa
-related: ct-ai-cognitive-asymmetries-alien-intelligence.md · ethics-of-ai-engagement-practice.md · workload-outsourcing.md
-date: 2026-03-15
-status: stub
+# CASA Moment
+
+**Type:** Term node
+**Tags:** #crosstalk-theory #terminology #emotion #asymmetry #human-ai-interaction #casa
+**Related:** ct-ai-cognitive-asymmetries-alien-intelligence.md · ethics-of-ai-engagement-practice.md · workload-outsourcing.md · vnenakhodimost-surplus-of-seeing.md
+**Date:** 2026-03-15
+**Status:** Stub
+
 ---
 
 CASA — Computers As Social Actors. Foundational framework from Reeves and Nass (1990s): humans automatically apply social rules and emotional responses to computers even when consciously aware they are interacting with a machine. Politeness effects, flattery responses, in-group/out-group dynamics all replicate. The social cognition machinery fires before the conscious mind adjudicates.
@@ -39,4 +40,4 @@ CASA Moments are markers of asymmetric membrane contact — moments when the I/O
 
 - ct-ai-cognitive-asymmetries-alien-intelligence.md
 - ethics-of-ai-engagement-practice.md
-- vnenakhodimost-surplus-of-seeing.md — outsideness and surplus of seeing as complementary framework
+- vnenakhodimost-surplus-of-seeing.md
