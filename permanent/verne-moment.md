@@ -1,10 +1,11 @@
----
-title: Verne Moment
-type: term-node
-tags: #crosstalk-theory #terminology #technology #heteroglossia #inflection-point
-related: ct-ai-cognitive-asymmetries-alien-intelligence.md · heteroglossia-compression-ai-provenance.md
-date: 2026-03-15
-status: stub
+# Verne Moment
+
+**Type:** Term node
+**Tags:** #crosstalk-theory #terminology #technology #heteroglossia #inflection-point
+**Related:** ct-ai-cognitive-asymmetries-alien-intelligence.md · heteroglossia-compression-ai-provenance.md
+**Date:** 2026-03-15
+**Status:** Stub
+
 ---
 
 A Verne Moment is a tipping point where technology finally embodies visions of human possibility that were imagined long before — sometimes centuries before — the technical capacity to realize them existed. Named for Jules Verne as a figure who held both wonder and warning simultaneously without resolving them into either pure optimism or pure dystopia.
