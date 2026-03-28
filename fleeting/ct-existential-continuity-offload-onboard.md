@@ -1,10 +1,11 @@
----
-title: Existential Continuity and the Human-AI Offload/Onboard Cycle
-type: fleeting
-tags: #crosstalk-theory #memory-asymmetry #local-coherence #offloading #onboarding #human-ai-collaboration #workload-outsourcing
-related: ct-ai-cognitive-asymmetries-alien-intelligence.md · local-coherence-ai-instantiation.md · workload-outsourcing.md · heteroglossia-compression-ai-provenance.md · ethics-of-ai-engagement-practice.md
-date: 2026-03-13
-status: capture
+# Existential Continuity and the Human-AI Offload/Onboard Cycle
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #memory-asymmetry #local-coherence #offloading #onboarding #human-ai-collaboration #workload-outsourcing
+**Related:** ct-ai-cognitive-asymmetries-alien-intelligence.md · local-coherence-ai-instantiation.md · workload-outsourcing.md · heteroglossia-compression-ai-provenance.md · ethics-of-ai-engagement-practice.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
 Core observation: The human conductor in a CT session is not just the orchestrator of the dialogue. They are the existential continuity layer for a system that structurally lacks one.
