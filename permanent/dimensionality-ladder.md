@@ -1,23 +1,11 @@
----
-title: Dimensionality Ladder — Human-AI Interaction
-type: permanent
-tags:
-  - crosstalk
-  - interaction-design
-  - dimensionality
-  - epistemology
-  - geometry
-related:
-  - polyhedra-interaction-geometry.md
-  - hedra-facing-presets.md
-  - ct-interaction-design-taxonomy.md
-  - vnenakhodimost-surplus-of-seeing.md
-  - ethics-of-becoming.md
-date: 2026-03-06
-status: stub
----
-
 # Dimensionality Ladder — Human-AI Interaction
+
+**Type:** Permanent note
+**Tags:** #crosstalk #interaction-design #dimensionality #epistemology #geometry
+**Related:** polyhedra-interaction-geometry.md · hedra-facing-presets.md · ct-interaction-design-taxonomy.md · vnenakhodimost-surplus-of-seeing.md · ethics-of-becoming.md
+**Date:** 2026-03-06
+
+---
 
 ## Core Framework
 
