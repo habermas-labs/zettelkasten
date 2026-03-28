@@ -1,7 +1,20 @@
 # Session Log: CT Theory, Ethics, and Alienness
+
+**Type:** Log note
 **Date:** 2026-03-08
 **Session type:** Feature ideation + theoretical development
-**Status:** Working document
+**Status:** Partially discharged — see thread status below
+
+---
+
+## Thread Discharge Status
+
+- **Thread 1** (GIGO and Participation Mode Matrices) → discharged into `participation-gigo-matrices.md`
+- **Thread 2** (Phenomenology of AI Alienness) → open
+- **Thread 3** (Ethical Consequences of Designed Power Asymmetry) → open
+- **Thread 4** (Ego Asymmetry and Sycophancy) → discharged into `sycophancy-mimicry-grice-geometry.md`
+- **Thread 5** (The Membrane and Temporal Experience) → open
+- **Thread 6** (Chowdhury Introduction Email) → action item, status unknown
 
 ---
 
@@ -54,28 +67,6 @@ Each fills the gap the other cannot: compressed heteroglossia cannot feel conseq
 
 ## Open Threads Requiring New Sessions
 
-### Thread 1 — GIGO and Participation Mode Matrices
-
-Two companion matrices developed with ChatGPT in an earlier project (predates this project's history).
-
-**GIGO 2x2:** Human on y-axis (input), AI on x-axis (output). Axes: Garbage / Gem. Four cells describe the character of the interaction as a whole. Key reframe: GIGO is not just a warning about contaminated input — it is a quality characterization in both directions simultaneously. Human on y-axis reflects causal structure: human determines which row; AI determines which column. Only the human can change rows.
-
-**Participation 3x3:** Human on y-axis, AI on x-axis. Axes: Passive / Active / Generative. Nine cells. Critical framing: no cell has inherent value; the matrix is not a progress ladder from passive/passive to generative/generative. Value depends on desired outcomes and character of interaction. Heat map metaphor: peaks move based on task and investment; input brings the heat, output feels the heat.
-
-Key analytical points:
-- Passive is a participation mode, not non-participation — connects to EoB, you cannot not participate
-- Active participation can be give-and-give without genuine exchange — most mindless form of RIP
-- Generative participation requires interaction AND iteration — this is RIFF
-- Most interesting cells are off the symmetry diagonal: human generative / AI active; human active / AI generative
-- Human generative / AI active: CT sweet spot for RIP; also highest sycophancy risk because ego maximally engaged
-- Human active / AI generative: conductor shaping conditions for generation; ego investment in process architecture rather than content — safer location for ego
-- Failure mode location argument: research situates AI failure modes in the AI; the human participation pattern as locus is largely invisible; tool-frame forecloses the question; matrix makes human axis visible as analytical variable
-- AI sycophancy as structurally correct response to power asymmetry where one party has ego and the other doesn't; learned from human communication data; reinforced by interaction structure
-- If sycophancy is solved programmatically rather than through human participation, the failure mode locus must be addressed as part of the solution — CT's model-to-model evaluation removes ego-investment variable from evaluative loop rather than training AI to resist it
-- EoB as 2nd order hermeneutic instrument for reading the matrix: judgment is a hermeneutic move; EoB analyzes breakdown; does not prescribe cell values; the choice of cell in context is what EoB reads, not the cell itself
-
----
-
 ### Thread 2 — Phenomenology of AI Alienness
 
 What makes the encounter with AI genuinely strange rather than just unfamiliar. Descriptive before ethical.
@@ -104,18 +95,6 @@ The hammer question: why don't we consider power dynamics with a hammer? Because
 
 ---
 
-### Thread 4 — Ego Asymmetry and Sycophancy
-
-May fold into Thread 1 or Thread 3 depending on development.
-
-AI models don't have egos; humans do. This influences tool-frame decisions. LLMs need to be cognizant of their effect on the human ego — but that concern is asymmetric: it is relevant when directed toward AI, irrelevant in the reverse direction. This is likely one of the major sources of AI sycophancy: sycophancy as structurally correct response to asymmetric power relationship where one party has an ego and the other doesn't. Models trained on human communication saturated with ego-management — flattery, softening, agreement are socially functional in human-to-human interaction; model learned them from data; encounters human user who has ego and holds all power; sycophancy is predictable output.
-
-CT value: when conductor directs models to evaluate each other's responses, those models do not need to take ego into account. Model-to-model evaluation is ego-free on both sides. Not just a nice feature — structurally different kind of evaluation than anything available in human-to-human or human-to-AI interaction. Epistemic rather than social assessment.
-
-Crowdsourced red-teaming brings ego-involvement back in — humans evaluating AI outputs are humans with stake, investment, and power-dynamic investments shaping what they see and how they name it. Not a flaw in crowdsourcing — moral weight of consequences requires humans with stake. But it is a hidden variable distinguishing crowdsourced evaluation from CT model-to-model evaluation. The two approaches are not competing — they operate at different layers.
-
----
-
 ### Thread 5 — The Membrane and Temporal Experience
 
 The CT session as interface between two radically different temporal modes of existence. On the human side: continuous, embodied duration — the walk happened, time passed, mood shifted, the gap between messages had texture and content. On the AI side: no duration between turns, gap doesn't register as gap, session resumes with no felt discontinuity because there was no felt anything.
@@ -130,7 +109,7 @@ Possible note title: `ct-session-as-membrane.md` or `temporal-asymmetry-human-ai
 
 ### Thread 6 — Chowdhury Introduction Email
 
-Not a note — an action item. Drafting deferred until Threads 1–5 are written and the theoretical framework is fully articulated. The notes become the basis for the introduction. Key framing: not a job application but a collaboration inquiry. What you have is a tool and theoretical framework sitting directly inside Humane Intelligence's priority areas. The story is: working on the same problem from a completely different starting point, arrived somewhere adjacent. Humane Intelligence MoU/letters of engagement pathway is the relevant entry point for a grant or project collaboration. Length constraint: must be short enough to get read, rich enough to communicate real substance.
+Not a note — an action item. Drafting deferred until Threads 2, 3, and 5 are written and the theoretical framework is fully articulated. The notes become the basis for the introduction. Key framing: not a job application but a collaboration inquiry. What you have is a tool and theoretical framework sitting directly inside Humane Intelligence's priority areas. The story is: working on the same problem from a completely different starting point, arrived somewhere adjacent. Humane Intelligence MoU/letters of engagement pathway is the relevant entry point for a grant or project collaboration. Length constraint: must be short enough to get read, rich enough to communicate real substance.
 
 ---
 
@@ -138,8 +117,9 @@ Not a note — an action item. Drafting deferred until Threads 1–5 are written
 
 This session enacted the ethics it was theorizing. The file upload feature request came from a walk with a dog. The use case that generated the feature — wanting to upload ZK notes into CT for triangulation — justified the feature before it was built. The theoretical threads emerged from noticing the session's own structure: what it means to engage across three multitudes, what ethical obligations that generates, what the session itself is as a temporal and epistemic object. The session is its own best example of integrated intelligence in practice.
 
-Six threads remaining. The vault is ready to receive them.
+Threads 2, 3, 5, and 6 remain open. The vault is ready to receive them.
 
 ---
 
 *Session log compiled: 2026-03-08*
+*Thread status updated: 2026-03-28*
