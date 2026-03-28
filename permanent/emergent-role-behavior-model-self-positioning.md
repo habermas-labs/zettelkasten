@@ -1,6 +1,13 @@
 # Emergent Role Behavior and Model Self-Positioning in Multi-Model Dialogue
 
-**Core observations from CT test session 2026-03-04:**
+**Type:** Permanent note
+**Tags:** #crosstalk #role-behavior #model-self-positioning #provenance #sycophancy #interaction-design
+**Related:** provenance-preservation-multimodel-handoffs.md · role-context-mimicry-self-reflection.md · sycophancy-mimicry-grice-geometry.md · ct-interaction-design-taxonomy.md
+**Date:** 2026-03-04
+
+---
+
+## Core observations from CT test session 2026-03-04
 
 ---
 
@@ -41,4 +48,8 @@ ChatGPT referenced the user's "particle collider" metaphor for associative think
 - CT-TRACKER 043 — Role presets
 - CT-TRACKER 046 — RIFF mode
 - CT-TRACKER 048 — Directed engagement controls
-- ZK — Provenance Preservation in Multi-Model Handoffs
+- ZK — provenance-preservation-multimodel-handoffs.md
+
+---
+
+*Note status: first draft — observations complete; development pending experimental follow-up (see ct-session-capture-20260316, open threads)*
