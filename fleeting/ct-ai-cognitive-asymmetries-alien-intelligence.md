@@ -1,10 +1,11 @@
----
-title: AI Cognitive Asymmetries, Alien Intelligence, and the Symmetrization Question
-type: fleeting
-tags: #crosstalk-theory #ego-asymmetry #memory-asymmetry #temporal-asymmetry #local-coherence #heteroglossia #agi #alien-intelligence
-related: vnenakhodimost-surplus-of-seeing.md · the-in-between.md · local-coherence-ai-instantiation.md · ethics-of-ai-engagement-practice.md · heteroglossia-compression-ai-provenance.md
-date: 2026-03-13
-status: capture — rich enough for permanent note development
+# AI Cognitive Asymmetries, Alien Intelligence, and the Symmetrization Question
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #ego-asymmetry #memory-asymmetry #temporal-asymmetry #local-coherence #heteroglossia #agi #alien-intelligence
+**Related:** vnenakhodimost-surplus-of-seeing.md · the-in-between.md · local-coherence-ai-instantiation.md · ethics-of-ai-engagement-practice.md · heteroglossia-compression-ai-provenance.md
+**Date:** 2026-03-13
+**Status:** Capture — rich enough for permanent note development
+
 ---
 
 Source: Radiolab, "The Alien in the Room," December 12, 2025. Stephen Cave: AI is "fundamentally alien" — not a weaker brain but a different kind of intelligence. The octopus metaphor: not because AI is like an octopus but because octopus intelligence shows how different intelligence can be. Tom Mullaney: even an AGI orders of magnitude smarter cannot suffer, rejoice, live and die the way humans can — the experiential asymmetries are permanent, not reducible to capability gaps.
