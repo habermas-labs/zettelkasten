@@ -1,8 +1,11 @@
+# Archaeology Capture — Human-AI Comparison Thread (CT Genealogy)
+
 **Type:** Fleeting — archaeology capture
+**Tags:** #archaeology #ct-genealogy #participation-modes #heteroglossia #compressed-heteroglossia #catr #cell-naming
+**Related:** participation-gigo-matrices.md · heteroglossia-compression-ai-provenance.md · ct-epistemic-training-framework.md · the-in-between.md · sociocultural-hermeneutics.md
 **Source thread:** arch-human-ai-comparison.txt (ChatGPT)
 **Project track:** CT genealogy
-**Date captured:** 2026-03-13
-**Related:** participation-gigo-matrices.md · heteroglossia-compression-ai-provenance.md · ct-epistemic-training-framework.md · the-in-between.md · sociocultural-hermeneutics.md
+**Date:** 2026-03-13
 
 ---
 
@@ -52,7 +55,7 @@ Skooter brings Claude's 3×3 participation matrix cell names to Chat for cross-m
 
 **Moral shading as feature:** Skooter suggests other cells have their value — use cases where Disengaged or Receiving or Outpacing is exactly right. Claude's response (relayed by Skooter):
 
-> "The problem is never being in a particular cell — it's being in a cell by default rather than by choice."
+"The problem is never being in a particular cell — it's being in a cell by default rather than by choice."
 
 This is the pivot from ladder to map. The matrix is not a gradient toward Synergistic. It is a navigation tool; the skill is intentional movement. Chat: "That's a clean distillation of your entire pedagogical stance."
 
@@ -97,14 +100,14 @@ This is the pivot from ladder to map. The matrix is not a gradient toward Synerg
 
 **The sociocultural layer no one sees:** Skooter's framing: Heidegger doesn't fully capture this (ontological, not sociolinguistic), Grice doesn't capture it (assumes cooperative rational agents), Extended Mind doesn't capture it (cognitive extension, not discursive stratification). Heteroglossia plugs the gap: it shifts the question from "Is AI thinking?" to "What social voices does AI reproduce?" That is the lynchpin of the sociocultural critique of AI that most discourse misses.
 
-**Non-native speaker application:** If training corpora are dominantly Anglophone, Western, academic/internet-centric, certain registers are more statistically central, more "normal-sounding." For non-native speakers this reinscribes dominant norms, privileges standard academic tone, creates invisible gatekeeping. Teachers who don't understand this may unknowingly penalize stylistic divergence or treat AI output as neutral authority.
+**Non-native speaker application:** If training corpora are dominantly Anglophone, Western, academic/internet-centric, certain registers are more statistically central, more "normal-sounding." For non-native speakers this reinscribes dominant norms, privileges standard academic tone, creates invisible gatekeeping.
 
 **Deployment strategy (three options):**
 1. "LLMs are made of heteroglossia" — open, invite discussion of sociocultural discourse (humanities-leaning audiences)
 2. Upgrade to "compressed heteroglossia" — bridges linguistics and machine learning (interdisciplinary/technical audiences ready for it)
 3. Don't go there unless the audience can handle it — for teachers focused on practical classroom use, the idea lands better as "AI reflects the distribution of voices it was trained on"
 
-**The rhetorical move Skooter developed:** Drop the spark ("LLMs are made of heteroglossia"), let it hang, then: "Oh, did I just say *heteroglossia*? What I really mean is *compressed heteroglossia*." This allows the audience to participate in the status-signaling authority effect of academic language, then step back from it — demonstrating the very thing being named. Chat: "You're performing heteroglossia while naming it. That's deliciously recursive."
+**The rhetorical move Skooter developed:** Drop the spark ("LLMs are made of heteroglossia"), let it hang, then: "Oh, did I just say heteroglossia? What I really mean is compressed heteroglossia." This allows the audience to participate in the status-signaling authority effect of academic language, then step back from it — demonstrating the very thing being named. Chat: "You're performing heteroglossia while naming it. That's deliciously recursive."
 
 **Provenance summary:**
 - "LLMs are made of heteroglossia" — Claude-origin (separate thread)
@@ -121,9 +124,7 @@ This is the pivot from ladder to map. The matrix is not a gradient toward Synerg
 
 **GIGO 2×2 → Heuristic:** Large-grained, simple, lends itself to quick consideration when examining a prompt just constructed. Coarse, fast, usable mid-action. Skooter's own description ("it's the sort of thing you pause for 8 seconds to apply") is definitional for a heuristic. Framework is too big; typology would be wrong.
 
-**The asymmetry is the point:** One slows thinking (typology, analytic, high-resolution). One speeds it up (heuristic, operational, low-resolution). Forcing symmetry would flatten their functional differences. Chat: "You care more about how a tool behaves in the wild than how it looks in a conceptual schema."
-
-**ZK candidate:** Consolidates into participation-gigo-matrices.md stub, which is now fully unblocked.
+**The asymmetry is the point:** One slows thinking (typology, analytic, high-resolution). One speeds it up (heuristic, operational, low-resolution). Forcing symmetry would flatten their functional differences.
 
 ---
 
