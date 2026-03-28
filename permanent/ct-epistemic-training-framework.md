@@ -66,6 +66,7 @@ This also means the guide will have genuine session transcripts as examples rath
 - `dimensionality-ladder.md` — the pitch scaffold that maps to the three training layers
 - CT-047 — mode exit scaffolding (reflective layer application)
 - CT-076 — welcome carousel (first epistemic framing the user encounters)
+- `role-commitment-as-structural-requirement.md` — Layer 2 elaboration; role assignment as performative speech act; phantom vertex failure mode; sycophancy mirror
 
 ---
 
