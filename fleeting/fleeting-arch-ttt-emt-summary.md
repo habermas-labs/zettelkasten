@@ -1,8 +1,11 @@
+# Archaeology Capture — EMT Summary Thread (TTT/CT Genealogy)
+
 **Type:** Fleeting — archaeology capture
+**Tags:** #archaeology #ct-genealogy #cognitive-onboarding #vygotsky #participation-modes #extended-mind
+**Related:** participation-gigo-matrices.md · sociocultural-hermeneutics.md · workload-outsourcing.md · the-in-between.md · ethics-of-becoming.md
 **Source thread:** ambi-emt-summary.txt (ChatGPT)
 **Project track:** CT genealogy + TTT (split; substantial CT content in final third)
-**Date captured:** 2026-03-13
-**Related:** participation-gigo-matrices.md · sociocultural-hermeneutics.md · workload-outsourcing.md · the-in-between.md · ethics-of-becoming.md
+**Date:** 2026-03-13
 
 ---
 
@@ -50,7 +53,7 @@ Notable structural artifact: thread contains extended Canva tool integration com
 
 **Chat's convergence point:** Vygotsky (mind as social) + Bakhtin (consciousness as dialogue) + Heidegger (being as situated) + Clark/Chalmers (extended mind) + enactivism + ZPD-AI + cognitive exoskeleton + hermeneutic circle analogy "all coheres." One question emerges: if cognitive work is distributed but conscious experience is not — what does it mean to own a thought?
 
-**ZK candidate:** Permanent note connecting sociocultural-hermeneutics.md, ethics-of-becoming.md, and the local-coherence-ai-instantiation.md frame. May also support the unpublished paper concept on ego involvement structures.
+**ZK candidate:** Permanent note connecting sociocultural-hermeneutics.md, ethics-of-becoming.md, and the local-coherence-ai-instantiation.md frame.
 
 ---
 
