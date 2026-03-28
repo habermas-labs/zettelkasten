@@ -1,8 +1,9 @@
----
-title: "CT Session Capture — 2026-03-16"
-type: fleeting
-tags: [#crosstalk #session-capture #ct-097 #model-strings #development]
-date: 2026-03-16
+# CT Session Capture — 2026-03-16
+
+**Type:** Session capture
+**Tags:** #crosstalk #session-capture #ct-097 #model-strings #development
+**Date:** 2026-03-16
+
 ---
 
 ## Session summary
