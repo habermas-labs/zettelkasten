@@ -1,12 +1,11 @@
-# Fleeting Notes — 2026-03-24
+# Honneth and Vallor — LinkedIn Orientation
+
+**Type:** Fleeting note
+**Tags:** #honneth #vallor #recognition #virtue-ethics #technology #linkedin
+**Related:** ethics-of-ai-engagement-practice.md · ethics-of-becoming.md · sycophancy-mimicry-grice-geometry.md · theoretical-sources-annotated.md
+**Date:** 2026-03-24
 
 ---
-
-## honneth-vallor-linkedin-orientation.md
-
-**Type:** Fleeting
-**Tags:** #honneth #vallor #recognition #virtue-ethics #technology #linkedin
-**Date:** 2026-03-24
 
 Two thinkers introduced via LinkedIn conversation — not yet in vault.
 
@@ -19,4 +18,3 @@ CT resonance: conditional recognition framing exposes same structural gap as ego
 CT resonance: EoB participation-shapes-the-field argument maps onto technosocial habits as unit of ethical analysis. Productive tension: does CT's structural design erode epistemic virtues by reducing friction? Counter: CT relocates friction rather than removes it — from navigational to epistemic (holding divergent outputs in tension). That's a Valorian argument *for* CT.
 
 Both warrant full entries in theoretical-sources-annotated.md. Honneth → recognition/ego asymmetry complex. Vallor → technosocial habits/EoB participation axis.
-
