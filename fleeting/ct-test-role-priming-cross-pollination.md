@@ -1,10 +1,11 @@
----
-title: Role Priming and Cross-Pollination — Experimental Design
-type: fleeting
-tags: #crosstalk-theory #role-presets #experimental-design #tetras #priming
-related: ct-role-test-rotation-conditions.md · ct-role-test-testbed-tetra.md · ct-tetras.md · ct-epistemic-training-framework.md
-date: 2026-03-13
-status: capture
+# Role Priming and Cross-Pollination — Experimental Design
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #role-presets #experimental-design #tetras #priming
+**Related:** ct-test-role-rotation-conditions.md · ct-test-role-testbed-tetra.md · ct-tetras.md · ct-epistemic-training-framework.md
+**Date:** 2026-03-13
+**Status:** Capture
+
 ---
 
 Core question: Does prior role experience improve subsequent role performance in AI models? Does inhabiting the Skeptic role make a model a better Case-maker, as Gemini's cross-pollination argument suggests?
@@ -25,4 +26,4 @@ Implication for Tetra design: if cross-pollination is real, deliberate role sequ
 
 Implication for training: if cross-pollination improves AI role performance, it may also improve human role performance in CT-mediated sessions — a conductor who has inhabited each role understands its constraints and failure modes in a way that purely observational experience doesn't provide. Connects to Palincsar's Reciprocal Teaching design principle.
 
-Forward: ct-role-test-testbed-tetra.md · ct-role-test-rotation-conditions.md
+Forward: ct-test-role-testbed-tetra.md · ct-test-role-rotation-conditions.md
