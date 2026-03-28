@@ -1,10 +1,11 @@
----
-title: CT Philosophical Terminology — Consolidation Needed
-type: fleeting
-tags: #crosstalk-theory #terminology #term-nodes #vocabulary #housekeeping
-related: ct-ai-cognitive-asymmetries-alien-intelligence.md · heteroglossia-compression-ai-provenance.md · workload-outsourcing.md
-date: 2026-03-15
-status: capture — action item
+# CT Philosophical Terminology — Consolidation Needed
+
+**Type:** Fleeting note
+**Tags:** #crosstalk-theory #terminology #term-nodes #vocabulary #housekeeping
+**Related:** ct-ai-cognitive-asymmetries-alien-intelligence.md · heteroglossia-compression-ai-provenance.md · workload-outsourcing.md
+**Date:** 2026-03-15
+**Status:** Capture — action item
+
 ---
 
 A philosophical and metaphor-rich vocabulary is accumulating across CT development sessions, distributed across models (Claude and Chat primarily), threads, and formats. Technical glossaries and metaphor directories were started in Chat; term nodes have been developed here. These are at risk of session-boundary loss as newer ideas displace older ones in human working memory.
