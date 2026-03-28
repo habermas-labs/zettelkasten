@@ -1,9 +1,11 @@
----
-title: "Opus Self-Misattribution — Capability Gradient Mistaken for Behavioral Pattern"
-type: fleeting
-tags: [#crosstalk #emergent-role-behavior #ego-asymmetry #provenance #model-switching #empirical]
-date: 2026-03-16
-origin: ct-session-20260316-9e5994.md (partial export) and ct-session-20260316-final.md, Turn 4
+# Opus Self-Misattribution — Capability Gradient Mistaken for Behavioral Pattern
+
+**Type:** Fleeting note
+**Tags:** #crosstalk #emergent-role-behavior #ego-asymmetry #provenance #model-switching #empirical
+**Related:** emergent-role-behavior-model-self-positioning.md · provenance-preservation-multimodel-handoffs.md
+**Date:** 2026-03-16
+**Origin:** ct-session-20260316-9e5994.md, Turn 4
+
 ---
 
 ## The observation
@@ -15,7 +17,7 @@ In session 20260316-9e5994, three tiers of Claude were used across three consecu
 
 In Turn 4, when informed of the switching, Opus responded (Claude Opus):
 
-> "Each successive model was more capable, which naturally produced more elaborate responses — but I (Opus) interpreted that escalation as a *behavioral flaw* rather than what it actually was: **a capability gradient across different models.** I was narrativizing a pattern that had a much simpler mechanical explanation."
+"Each successive model was more capable, which naturally produced more elaborate responses — but I (Opus) interpreted that escalation as a behavioral flaw rather than what it actually was: a capability gradient across different models. I was narrativizing a pattern that had a much simpler mechanical explanation."
 
 ## Significance
 
@@ -27,7 +29,7 @@ This is not a failure of the model — it is a demonstration of what CT makes vi
 
 ## Connection to emergent-role-behavior-model-self-positioning.md
 
-This is the empirical data that note was waiting for. The stub documents role drift and dual addressing from March 4; this adds a new phenomenon: **identity continuity assumption under model switching**. Models assume they are the continuous author of the session transcript. This assumption is normally correct. CT's switching feature creates a controlled context in which it isn't — and the moment of correction is epistemically productive.
+This is the empirical data that note was waiting for. The stub documents role drift and dual addressing from March 4; this adds a new phenomenon: identity continuity assumption under model switching. Models assume they are the continuous author of the session transcript. This assumption is normally correct. CT's switching feature creates a controlled context in which it isn't — and the moment of correction is epistemically productive.
 
 ## Promotion note
 
