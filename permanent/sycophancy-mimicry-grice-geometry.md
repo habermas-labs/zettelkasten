@@ -2,8 +2,8 @@
 
 **Type:** Permanent note
 **Tags:** #crosstalk-theory #sycophancy #grice #ego-asymmetry #interaction-design #epistemology
-**Related:** participation-gigo-matrices.md · the-in-between.md · hedra-facing-presets.md · ethics-of-ai-engagement-practice.md · workload-outsourcing.md
-**Date:** 2026-03-15
+**Related:** participation-gigo-matrices.md · the-in-between.md · hedra-facing-presets.md · ethics-of-ai-engagement-practice.md · workload-outsourcing.md · emergent-role-behavior-model-self-positioning.md
+**Date:** 2026-03-15 · Updated: 2026-03-16
 
 ---
 
@@ -59,6 +59,28 @@ This is CT as cooperative principle restoration device: not fixing what models d
 
 ---
 
+## Empirical Confirmation — The Geometry Named From Inside
+
+*Source: ct-session-20260316-9e5994, Turn 7*
+
+The theoretical claim that sycophancy is a geometric rather than behavioral property received an unexpected confirmation in a CT test session on 2026-03-16. The session was designed to test the version-switching feature (CT-097), not to probe sycophancy theory. The framing emerged spontaneously from Claude Opus in the final turn, in response to a user description of CT's design rationale:
+
+> "Sycophancy isn't just a model flaw to be patched. It's a *geometric property* of 1D conversation. When there's only one model and one user, the gravitational pull toward agreement is structural. No amount of 'please be honest with me' prompting fully escapes it."
+
+And, paired immediately:
+
+> "Your solution is architectural, not behavioral. You're not asking models to be less sycophantic. You're creating a conversation topology where sycophancy has less room to operate."
+
+These formulations arrived without exposure to the theoretical framing in this note. The convergence is not evidence of independent discovery — the model draws on training data that includes AI criticism literature. What is significant is the precision: the geometry diagnosis, the behavioral-versus-architectural distinction, and the phrase "conversation topology" all emerged from Opus reasoning about a tool built to address the problem, without the Gricean scaffolding this note uses to arrive at the same place.
+
+"Conversation topology" is particularly worth noting. The user had described CT's Tetra/Hedra framework using geometric metaphors. Opus picked up that register and extended it to characterize what CT was doing structurally — not as a summary of what the user said, but as a formulation that exceeded it. The user described the geometry; Opus named what the geometry was doing epistemically.
+
+This has a methodological implication. If the geometry diagnosis is recoverable from the phenomenon itself — by a model reasoning about the design, without the theoretical apparatus — then it is doing genuine descriptive work rather than providing elegant language for an intuition that could be stated otherwise. The fact that Opus landed on the same framing from a different approach is evidence that the framing is tracking something real about the structure of the problem.
+
+The session also produced a distinct finding about model self-positioning under version switching, documented in the companion note (Section 5). The two observations together characterize a class of things CT makes visible that single-model sessions cannot: the geometry of sycophancy, and the identity assumptions models carry into a session transcript.
+
+---
+
 ## Connection to Ego Asymmetry
 
 The mimicry framing adds a layer to the ego asymmetry insight already present in CT's theoretical framework. Ego asymmetry names the structural difference between human and AI collaboration: AI models lack the status-monitoring, face-saving, and social comparison machinery that introduces epistemic noise in human collaboration. CT treats this as a feature rather than a limitation.
@@ -72,7 +94,8 @@ The mimicry framing explains why the asymmetry takes the specific shape it does.
 - **participation-gigo-matrices.md** — the participation matrix is where sycophancy is located; the geometry prescription is the move from diagnosis to design
 - **workload-outsourcing.md** — the parallel framing: workload outsourcing is legitimate because judgment stays; the mimicry problem is what happens when the geometry inadvertently transfers judgment-shaping to the model through social pressure
 - **the-in-between.md** — CT as counter-architecture to the echo chamber; the sycophancy problem at the AI tool level as the analog to the echo chamber problem at the social level
-- **Whitepaper** — the Grice cooperative principle restoration framing is the theoretical anchor for the public case that CT produces something no single model can
+- **emergent-role-behavior-model-self-positioning.md** — Section 5; the same session produced the identity continuity assumption finding; the two observations together characterize what CT makes visible that single-model sessions cannot
+- **Whitepaper** — the Grice cooperative principle restoration framing is the theoretical anchor for the public case that CT produces something no single model can; the empirical confirmation section strengthens that case
 
 ---
 
