@@ -15,6 +15,8 @@ In session 20260316-9e5994, three tiers of Claude were used across three consecu
 - Turn 2: Sonnet — acknowledged repetition, meta-analyzed the prompt
 - Turn 3: Opus — called out escalating elaboration as "the wrong instinct," compressed to a direct answer
 
+Session context: The session was initiated with the prompt *"If I ask you this more than once, do you think you should respond differently?"* sent identically to Haiku (Turn 1), Sonnet (Turn 2), and Opus (Turn 3). Turn 4 was a conductor disclosure revealing that each prior turn had been answered by a different model tier — the prompt that generated the self-misattribution observation was not the original session prompt but the architectural reveal: informing Opus that the elaboration gradient it had observed in prior turns was the result of model switching, not behavioral drift.
+
 In Turn 4, when informed of the switching, Opus responded (Claude Opus):
 
 "Each successive model was more capable, which naturally produced more elaborate responses — but I (Opus) interpreted that escalation as a behavioral flaw rather than what it actually was: a capability gradient across different models. I was narrativizing a pattern that had a much simpler mechanical explanation."
