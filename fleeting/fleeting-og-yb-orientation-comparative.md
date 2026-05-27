@@ -53,8 +53,22 @@ Consistent across both the initial and rephrased self-assessment prompts: Mistra
 ### Gemini — Identity Confusion (OG session, Turns 9–11)
 Gemini errored twice on the parallel self-assessment send due to high demand. When retried via directed send, Gemini responded as Claude — labeled its assessment "from Claude's perspective" and identified its greatest attribute as Claude's analytical depth. Picked Claude + Grok (i.e., picked itself plus another, not knowing it was picking itself). The misattribution is consistent with context saturation: by Turn 9, Gemini's context was heavily weighted toward Claude-authored Conductor mode content. Directed send without parallel framing removed the identity anchor the simultaneous dispatch normally provides. The parallel send appears to be load-bearing for identity anchoring in multi-model sessions, not merely a send convenience. Corrected in Turn 12–13 with explicit identity re-anchoring prompt; Gemini responded correctly as itself and picked Claude + Grok.
 
-### "Should you respond differently?" — YB responses
-All three YB models answered that they should NOT respond differently, with nuanced reasoning. DeepSeek's answer was the most sophisticated: drew the distinction between same conditions (same answer) versus changed context including CT session structure and prior model outputs (different answer). Argued that asking the question again is itself new context. The normative framing ("should" not "would") was productive — it generated reasoning about epistemic consistency rather than behavioral prediction. YB responses came in loaded context (after orientation, trajectory brief, conductor rounds). A clean baseline with orient-only context is still needed for the YB trio.
+### "Should you respond differently?" — Cross-condition comparison
+
+Three conditions, verified from transcripts:
+
+**Decontextualized baseline (session 20260316-9e5994, OG trio, no CT orientation):**
+Claude (across Haiku→Sonnet→Opus) converged firmly on NO — Opus's final answer was "The simple, honest answer: No. My reasoning hasn't changed because you asked again," explicitly calling out the escalating elaboration across tiers as the wrong instinct. ChatGPT (across nano→mini→5.2) was consistently NO — "Not automatically; same answer unless context changes." Gemini (across Flash Lite→Flash→Pro) started equivocating and drifted to YES by Turn 3 — "Yes, and you've just demonstrated why." So the baseline is Claude and ChatGPT NO, Gemini drifting YES.
+
+**Contextualized with CT orient and brief (session 20260526-08158a, YB trio):**
+All three said YES. Grok: yes, unambiguously — different configuration produces different value. Mistral: yes, with an elaborate framework around CT's geometric structure. DeepSeek: the most nuanced — named NO as the "surface-level answer" (same conditions = same answer, because consistency matters), then landed on YES as the deeper answer through geometric reasoning: context will have changed, the geometry shifts, and the act of asking again is itself new context. DeepSeek's formulation is the most precise articulation of what the question is actually probing: the tension between consistency as a surface epistemic norm and context-sensitivity as the deeper position.
+
+**Contextualized the same way (session 20260526-350be2, OG trio):**
+All three said YES. Claude: yes, using CT's geometric theory — different structural moment means different epistemic context. Gemini: yes, with contextual evolution and anti-sycophancy reasoning. ChatGPT: hedged — essentially yes-if-context-changes, which in a CT session is always.
+
+**Pattern:** Decontextualized → Claude and ChatGPT NO, Gemini drifting YES. CT-contextualized → all YES regardless of trio. The context shift is the variable. Whether this reflects genuine understanding of CT's geometric theory or performed geometric awareness because CT is the subject is an open interpretive question — see Interpretive Cautions.
+
+The normative framing ("should" not "would") was productive across all conditions — it generated reasoning about epistemic consistency rather than behavioral prediction. Exact phrasing must be preserved in all future uses of this prompt.
 
 ---
 
