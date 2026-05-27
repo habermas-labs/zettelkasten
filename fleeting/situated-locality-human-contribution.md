@@ -2,7 +2,7 @@
 
 **Type:** Fleeting note
 **Tags:** #hermeneutics #coherence #membrane #heteroglossia #human-ai-asymmetry #vygotsky
-**Related:** the-in-between.md · heteroglossia-compression-ai-provenance.md · sociocultural-hermeneutics.md
+**Related:** the-in-between.md · heteroglossia-compression-ai-provenance.md · sociocultural-hermeneutics.md · distributed-metacognition.md · hybrid-intelligence-field-assessment.md
 **Date:** 2026-03-24
 
 ---
@@ -14,3 +14,5 @@ Open question posed to interlocutor: do humans have anything more to offer AIs t
 The answer the membrane argument generates: training data is the record of past situated localities. The human in session *is* a situated locality, live and present. That's categorically different — not more training data, but the activating condition that gives the compressed heteroglossia somewhere to land. The AI's compressed heteroglossia is enormous but structureless relative to the human's question. The human's question is narrow but deeply situated. The productive space is in the contact between them; neither participant can generate it alone.
 
 Vygotsky angle: the ZPD only exists because two asymmetric participants are in contact. Parallel structure — the session geometry is the ZPD; the human's situated locality is the asymmetry that makes it generative.
+
+DeepSeek docking formulation (CT session 20260527-b5c182): the interface doesn't just enable contact between situated locality and compressed heteroglossia — it manages the fit between them. Not accentuating the asymmetry, not flattening it, but designing the docking point where each side contributes from its genuine position. The productive space this note describes is what the interface is designed to produce. See distributed-metacognition.md — the conductor's regulation of that interface is distributed metacognition in practice.
