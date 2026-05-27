@@ -84,11 +84,15 @@ Narrative psychology and the distinction between narrative and paradigmatic (log
 ### Carse, James P.
 **Philosophy**
 
-Finite and Infinite Games (1986). Finite games are played for the purpose of winning — they have defined endpoints, rules, and a winner. Infinite games are played for the purpose of continuing the play — their goal is to keep the game going, to bring more players in, to prevent anyone from winning definitively.
+Finite and infinite games: finite games are played for the purpose of winning — they have defined endpoints, rules, and a winner. Infinite games are played for the purpose of continuing the play — the goal is to keep the game going, to bring more players in, to prevent anyone from winning definitively.
+
 CT's design philosophy is an infinite game architecture. The In-Between tetra, the training framework, the emphasis on productive tension over resolution — all are oriented toward continuation rather than closure. The expert conductor, in Carse's terms, is not the player who has mastered the finite game but the one who has learned to play infinitely. Mistral arrived at this framing independently in CT session 20260527 without the citation; the logic is structurally identical.
-Connection to Bakhtin's unfinalizability: both argue that premature closure is the enemy of genuine dialogue. Carse provides a compact Western philosophy of games frame that travels well in non-academic contexts; Bakhtin provides the heteroglossic depth. Both belong in CT's theoretical sources.
+
+Connection to Bakhtin's unfinalizability: both argue that premature closure is the enemy of genuine dialogue. Carse provides a compact philosophy-of-games frame that travels well in non-academic contexts; Bakhtin provides the heteroglossic depth. Both belong in CT's theoretical sources.
 
 - *Finite and Infinite Games* (1986, Free Press) — the complete argument in a short book; widely read outside academia
+
+**ZK:** the-in-between.md · ethics-of-becoming.md
 
 ---
 
