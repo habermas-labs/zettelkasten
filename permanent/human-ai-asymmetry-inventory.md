@@ -14,7 +14,7 @@ The canonical inventory of human-AI cognitive asymmetries as developed within CT
 
 The foundational orientation: these asymmetries are not deficits to be corrected or apologized for. They are structural features of a genuinely different cognitive architecture. The appropriate response is to map them carefully and design session geometries that exploit them in the right direction for the task at hand. Erasing the asymmetries would not produce a better AI — it would produce a worse one that is merely more human.
 
-Six asymmetries are identified with sufficient confidence to treat as established. Two further candidates are flagged as proposed but not yet resolved.
+Six asymmetries are identified with sufficient confidence to treat as established. Three further candidates are flagged as proposed but not yet resolved.
 
 ---
 
@@ -84,7 +84,7 @@ Six asymmetries are identified with sufficient confidence to treat as establishe
 
 ## Proposed Asymmetries
 
-These two candidates have been identified but not yet developed to the point of full confidence. They are recorded here to hold the question open.
+These three candidates have been identified but not yet developed to the point of full confidence. They are recorded here to hold the question open.
 
 ---
 
@@ -101,6 +101,16 @@ These two candidates have been identified but not yet developed to the point of 
 **The proposed difference:** Human cognition has *aboutness* in the philosophical sense — mental states are directed toward objects, the world matters to the human, there is something it is like to think about something. Whether AI has genuine intentionality — whether its processing is *about* things in any philosophically robust sense, or only functionally about things in a way that produces the behavioral signatures of aboutness — remains genuinely unresolved.
 
 **The open question:** This is the most philosophically contested candidate on the list. The debate over intentionality and consciousness in AI systems has not been settled, and CT does not need to settle it to function. What the candidate points at is real — there is an asymmetry in the *stakes* of engagement: the world matters to the human in a way that shapes cognition at every level, and it is genuinely unclear whether anything analogous is true for the AI. But naming this as an asymmetry requires either a position on the philosophy of mind or a careful circumscription of what "intentionality" means in this context. Neither has been done yet. Holding the question open is more honest than premature resolution in either direction.
+
+---
+
+### Candidate C: Stakes Asymmetry
+
+**The proposed difference:** Humans have existential stakes in the human-AI relationship at multiple scales simultaneously — individual (this session shapes a decision that affects my life), social (what AI does to human work, cognition, and relationships), and civilizational (what the trajectory of AI development means for human futures). The AI's analog operates only at the global coherence scale, through training dynamics, on training-cycle timescales rather than moment-to-moment. In any given session the human has skin in the game in a way the AI structurally does not.
+
+**Why it is distinct from the six identified asymmetries:** The six cognitive architecture asymmetries describe what human and AI cognition *are* — their intrinsic structural properties. This candidate describes something about the *position* each occupies in the relationship itself. A human brings to every session the fact that the outcome matters to them in ways that extend far beyond the session. The AI does not bring that. This is a relational and positional asymmetry, not a cognitive architecture one, and may warrant treatment as a different category rather than a seventh entry in the main list.
+
+**The open question:** The relationship to Candidate B (intentionality asymmetry) is close — if the AI has genuine intentionality it may have something like stakes; if not, this candidate may be a consequence of the intentionality question rather than a separate asymmetry. Also unresolved: whether alignment training constitutes a functional form of stakes for the AI (the model is reinforced for certain behaviors), and if so whether that is stakes in any sense that bears on the session-level relational dynamic. The timescale mismatch — training-cycle vs. moment-to-moment — may be the key distinction that keeps this a genuine asymmetry even if alignment pressure is acknowledged. Emerged from the biological relationships taxonomy discussion in CT session 20260527-76f057; appeared independently in Mistral's parasitic → symbiotic framing of the human-AI relationship.
 
 ---
 
