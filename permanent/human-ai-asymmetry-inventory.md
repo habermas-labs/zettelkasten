@@ -2,7 +2,7 @@
 
 **Type:** Permanent note — reference inventory
 **Tags:** #crosstalk-theory #asymmetries #memory-asymmetry #temporal-asymmetry #coherence-asymmetry #ego-asymmetry #scale-asymmetry #io-asymmetry #embodiment #intentionality
-**Related:** ct-ai-cognitive-asymmetries-alien-intelligence.md · threshold-asymmetry-case-study.md · threshold-asymmetry-sources.md · workload-outsourcing.md · sycophancy-mimicry-grice-geometry.md · role-context-mimicry-self-reflection.md · midwifery-emergent-intelligence.md · casa-moment.md · vnenakhodimost-surplus-of-seeing.md
+**Related:** `ct-ai-cognitive-asymmetries-alien-intelligence.md` · `threshold-asymmetry-case-study.md` · `threshold-asymmetry-sources.md` · `workload-outsourcing.md` · `sycophancy-mimicry-grice-geometry.md` · `role-context-mimicry-self-reflection.md` · `midwifery-emergent-intelligence.md` · `casa-moment.md` · `vnenakhodimost-surplus-of-seeing.md` · `distributed-metacognition.md` · `hybrid-intelligence-field-assessment.md`
 **Date:** 2026-04-24
 **Status:** Active — six asymmetries confirmed; two candidates under development
 
@@ -112,6 +112,16 @@ The octopus provides a useful reference: distributed neural architecture is not 
 
 CT's position, implicit in its design: the asymmetries are the affordances. Exploiting them well is the work.
 
+DeepSeek's docking formulation from CT session 20260527-b5c182 sharpens this: the goal is not accentuating asymmetries (making each side more extreme in its own lane) nor flattening them, but *docking* — designing interfaces where the asymmetries fit optimally, plugging into each other at points of genuine complementarity. Accentuation is just a different kind of siloing; docking is the productive alternative. The interface manages the fit; the asymmetries provide what makes the fit generative.
+
+---
+
+## Mismanagement Patterns
+
+Asymmetry flattening in practice is rarely a principled design position — it is an emergent consequence of profit-motivated deployment decisions optimizing for the wrong variables. Speed for speed's sake, efficiency for efficiency's sake, headcount reduction as the primary success metric. The result is AI deployed for tasks that require the human qualities AI structurally lacks: relationship judgment, ethical nuance, contextual accountability. The outputs have the form of the thing without the substance — sophisticated AI slop that passes surface inspection while the epistemic work is absent.
+
+The correction cycle requires the feedback signal ("this doesn't seem right") to fire, but where AI successfully mimics surface form, that signal is suppressed. The AI-as-bad-human failure mode is accordingly self-concealing in ways that make correction slower than the deployment rate. The human-as-bad-AI failure mode — making humans more computational, more optimized, more measurable — is the slower-moving dystopian variant; it requires deliberate intervention and meets enormous biological and cultural resistance. The immediate threat is the former: not cyberpunk enhancement but ordinary market dynamics producing AI deployed in roles that require what AI structurally cannot provide.
+
 ---
 
 ## Connected Notes
@@ -126,5 +136,7 @@ CT's position, implicit in its design: the asymmetries are the affordances. Expl
 - `casa-moment.md` — I/O asymmetry breaking into conscious experience
 - `vnenakhodimost-surplus-of-seeing.md` — coherence asymmetry and outsideness; the surplus the AI's global position enables
 - `heteroglossia-compression-ai-provenance.md` — the heteroglossic structure of global coherence
+- `distributed-metacognition.md` — the capacity to regulate the interface where asymmetries meet; the conductor's active management of the docking point
+- `hybrid-intelligence-field-assessment.md` — field context; how HI literature handles and mishandles the asymmetry question
 - `local-coherence-ai-instantiation.md` — **planned note, not yet written.** Explores the membrane dynamic of the coherence asymmetry: humans bring local coherence, AI brings global, and the interaction itself creates temporary access to both simultaneously. The session as the site where the two coherences meet and each gains something it cannot hold alone. Related to the Scribe condition in The Threshold and to the CT tetrahedron's human vertex.
 - `temporal-asymmetry-human-ai.md` — **planned note, not yet written.** A dedicated exploration of the temporal asymmetry and its consequences: quantized vs. continuous existence, what it means for the AI that between sessions is closer to non-existence than sleep, and what design responses are available (vault priming, session artifacts, conductor continuity). The reframe of session-as-complete-in-itself rather than session-as-truncated-life.
