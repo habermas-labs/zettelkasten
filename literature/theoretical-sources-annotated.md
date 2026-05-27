@@ -219,6 +219,20 @@ Three-stage trauma recovery framework: safety, remembrance and mourning, reconne
 
 ---
 
+### Hutchins, Edwin
+**Cognitive Science / Anthropology**
+
+Distributed cognition: cognition is a property of sociotechnical systems, not individual minds. Hutchins' study of navigation aboard a US Navy vessel demonstrated that the ship navigates — not the navigator. The cognitive work is distributed across people, instruments, charts, and procedures; the unit of analysis is the system, not the person. This is a more radical claim than Clark & Chalmers' extended mind thesis, which still begins with an individual mind reaching outward. Hutchins begins with the system and asks what cognitive work it performs as a whole.
+
+For CT, the direct consequence is that distributed metacognition — the regulation and monitoring of a cognitive system's own processes — must also be a property of the system, not just of the human participant within it. If the human-AI session is a distributed cognitive system in Hutchins' sense, then asking "is the human metacognitively aware?" is the wrong unit of analysis. The right question is whether the system monitors and regulates itself, and what each component's contribution to that monitoring is. This reframes CT's information asymmetry problem: the conductor's privileged overview is the system's primary metacognitive resource, and CT's architecture is an early attempt to distribute that resource more deliberately across components.
+
+- *Cognition in the Wild* (1995) — the primary text; navigation study; distributed cognition as sociotechnical system property; the founding empirical argument
+- *"Distributed Cognition"* (1995, in Wilson & Keil, *The MIT Encyclopedia of the Cognitive Sciences*) — compact theoretical statement; useful entry point
+
+**ZK:** distributed-metacognition.md · workload-outsourcing.md
+
+---
+
 ### Laozi
 **Philosophy (Daoist)**
 
