@@ -17,6 +17,8 @@ Current CT implementation uses Claude (Anthropic), ChatGPT (OpenAI), and Gemini 
 
 *DeepSeek* — Chinese institutional provenance. Competitive with closed Western models on benchmarks. Whether provenance produces substantively different epistemic posture on non-politically-loaded topics is an open empirical question — CT is well positioned to test it. Open weights are also architecturally interesting for the same reasons as Mistral.
 
+*Kimi K2.6 (Moonshot AI)* — added 2026-06-02. Chinese provenance but distinct from DeepSeek — consumer and multimodal orientation vs. DeepSeek's quantitative/research background. 1T parameter MoE, open-weight Modified MIT license, $0.95/$4.00 per million tokens (significantly cheaper than Western frontier models). Primary CT interest: cultural triangulation alongside DeepSeek — hypothesis is that two Chinese-origin models will show meaningfully different epistemic signatures, not just political filtering artifacts. Kimi's global consumer orientation may produce different framing conventions, rhetorical defaults, and treatment of contested topics than DeepSeek's research orientation. The heteroglossia framework is the right lens. Brand color: TBD — Moonshot AI uses dark theme with orange/amber accents but Kimi's consumer interface uses a lighter palette; verify before assigning chip color. Geopolitical note: pending US legislation around Chinese AI firms is a deployment risk factor to monitor. See CT-126.
+
 **Considered, lower priority for now:**
 
 *Perplexity* — live search like Grok, but redundant if Grok is already in play. No distinct provenance advantage over Grok.
