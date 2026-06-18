@@ -68,6 +68,19 @@ Field theory and cultural capital: every institutional field (medicine, HR, lega
 
 ---
 
+### Bandura, Albert
+**Social Psychology / Educational Psychology**
+
+Social cognitive theory and self-efficacy: the belief that one can successfully execute a specific behavior in a specific context. Bandura's key distinction — that self-efficacy is domain and task specific, not a generalized trait — is directly relevant to CT's motivational architecture. AI literacy (instrumental competence with AI tools) is routinely conflated with self-efficacy for critical engagement with AI outputs, but these are separable constructs. A learner can have high AI literacy and low self-efficacy for dialogic pushback — the belief that their own critical intervention will be productive rather than futile. This gap is what CT's architecture addresses structurally: by providing model divergence as externalized resistance, it reduces the self-efficacy demand for critical engagement. The conductor does not need to believe their pushback is epistemically justified; the interface has already produced the divergence. Bandura's mastery experience construct also bears on the cross-cultural variation in CT's conductor role: in self-enhancement educational cultures, successful AI-assisted output functions as a mastery experience that raises self-concept and self-efficacy; in self-improvement cultures, the same output may reveal gaps rather than confirm competence, producing a differently shaped but potentially more rigorous conductor posture.
+
+- *"Self-efficacy: Toward a Unifying Theory of Behavioral Change"* (1977, Psychological Review) — the founding paper; expectancy-value model, sources of self-efficacy information
+- *Social Foundations of Thought and Action: A Social Cognitive Theory* (1986) — the systematic treatment; self-efficacy in context; agency and outcome expectancy distinction
+- *Self-Efficacy: The Exercise of Control* (1997) — the mature statement; applications across domains including education
+
+**ZK:** distributed-metacognition.md · ct-epistemic-training-framework.md
+
+---
+
 ### Bruner, Jerome
 **Educational Psychology / Cognitive Psychology**
 
@@ -132,6 +145,17 @@ Cognitive dissonance theory: the discomfort produced by holding contradictory be
 - *A Theory of Cognitive Dissonance* (1957) — founding text; the core experimental demonstrations and theoretical framework
 
 **ZK:** the-in-between.md
+
+---
+
+### Frazier, Leslie D., Schwartz, Bennett L., & Metcalfe, Janet
+**Cognitive Psychology / Educational Psychology**
+
+The MAPS model of self-regulation: an integrative framework linking Metacognition, Agency, and Possible Selves. MAPS argues that effective self-regulation requires all three components operating together — metacognitive monitoring alone is insufficient without the agency to act on what monitoring reveals, and agency without a projected possible self (a goal-state the learner is moving toward) lacks motivational direction. Directly relevant to the motivational pre-emption argument: the omniscient epistemic authority perception of AI does not merely reduce reflection — it forecloses the agency component of MAPS before the self-efficacy evaluation runs. The learner does not experience themselves as having the standing to intervene, so neither monitoring nor possible-self projection produces regulatory behavior. MAPS also clarifies why AI literacy as measured by competence scales fails to capture the full regulatory picture: literacy addresses the metacognitive component but not the agency belief or the possible-self projection that would make literacy actionable. CT's architecture addresses the agency component directly by providing externalized resistance that makes critical engagement structurally available rather than motivationally demanding.
+
+- *"The MAPS Model of Self-Regulation: Integrating Metacognition, Agency, and Possible Selves"* (2021, Metacognition and Learning, 16, 297–318) — the primary text; the integrated framework; implications for educational design
+
+**ZK:** distributed-metacognition.md
 
 ---
 
@@ -233,6 +257,17 @@ For CT, the direct consequence is that distributed metacognition — the regulat
 
 ---
 
+### Kember, David
+**Educational Psychology / Higher Education**
+
+A behavioral taxonomy of reflection that provides the closest existing operationalization of CT's friction topology. Kember et al. distinguish four levels: habitual action (task performed without conscious attention), understanding (comprehension without questioning assumptions), reflection (recognizing that alternative perspectives exist and examining one's own), and critical reflection (awareness of why one perceives and thinks as one does — assumption examination at the level of premises rather than conclusions). Applied to AI-assisted learning, the taxonomy maps cleanly onto the friction gradient CT is designed to maintain: habitual action is copy-paste; understanding is reading the output for content; reflection is noticing that the output could be questioned; critical reflection is interrogating the assumptions the output depends on. Standard single-model AI interaction gravitates toward habitual action and understanding. CT's divergence mechanism structurally requires at minimum reflection — two models disagreeing means the conductor cannot simply accept — and is designed to scaffold critical reflection. Kember's taxonomy also provides the behavioral complement to Piaget's equilibration: equilibration describes the cognitive structural change; Kember describes the behavioral indicators that signal when it is occurring.
+
+- *"Development of a Questionnaire to Measure the Level of Reflective Thinking"* (2000, Assessment & Evaluation in Higher Education, 25(4), 381–395) — the primary measurement instrument; the four-level taxonomy; items directly applicable to CT session evaluation
+
+**ZK:** the-in-between.md · ct-epistemic-training-framework.md · distributed-metacognition.md
+
+---
+
 ### Laozi
 **Philosophy (Daoist)**
 
@@ -241,6 +276,17 @@ Wu wei — acting in accordance with the nature of things rather than against th
 - *Tao Te Ching* (c. 4th century BCE) — the primary text; chapters on wu wei, the nature of water, action through non-action
 
 **ZK:** ethics-of-becoming.md · vnenakhodimost-surplus-of-seeing.md
+
+---
+
+### Lindebaum, Dirk, et al.
+**Organization Studies / Higher Education**
+
+The "organized immaturity" thesis: large language models in higher education produce a systematic tendency toward epistemic dependence — learners who are technically capable of engaging with AI but who progressively surrender the epistemic agency required to evaluate, contest, and transcend AI outputs. The phrase deliberately inverts Dewey's concept of education as organized growth: where Dewey saw education as the institution that scaffolds the development of independent judgment, Lindebaum et al. argue that unreflective AI integration inverts this function, scaffolding instead toward comfortable dependence on machine-generated knowledge. The critical pole CT must engage: if organized immaturity is the trajectory of unreflective AI integration in education, CT's claim is that the architecture of the interaction determines which trajectory is taken. Multi-model divergence with a human conductor is designed to interrupt organized immaturity structurally — not through individual willpower or AI literacy training, but through the interaction geometry itself.
+
+- *"The Transformation of Epistemic Agency and Governance in Higher Education through Large Language Models — Toward a Future of Organized Immaturity"* (2025, Organization Studies) — the primary text; the organized immaturity construct; institutional and governance implications
+
+**ZK:** distributed-metacognition.md · ethics-of-ai-engagement-practice.md
 
 ---
 
@@ -290,6 +336,17 @@ Person-centered therapy and the three core conditions for therapeutic change: un
 - *A Way of Being* (1980) — the mature statement; Rogers' own reflection on the limits and scope of the person-centered approach
 
 **ZK:** threshold-asymmetry-case-study.md
+
+---
+
+### Salomon, Gavriel (ed.)
+**Educational Psychology / Cognitive Science**
+
+*Distributed Cognitions* is the foundational edited volume establishing distributed cognition as an educational and psychological research program, distinct from but complementary to Clark & Chalmers' philosophical Extended Mind Thesis. Where EMT argues for the principled inclusion of environmental elements within cognitive systems, Salomon's volume asks what distributed cognition means for learning design, educational practice, and the unit of analysis in cognitive research. The key contribution for CT is the shift from individual learner to person-plus-environment as the relevant cognitive system — a shift that grounds distributed metacognition as a concept. If cognition is distributed across the learner and their tools and interlocutors, then metacognition — the monitoring and regulation of cognition — must also be distributed. Salomon's volume provides the educational instantiation of this argument that Clark & Chalmers' philosophical treatment does not.
+
+- *Distributed Cognitions: Psychological and Educational Considerations* (1997, Cambridge University Press) — the primary text; multiple contributors including Hutchins, Pea, and others; the educational and psychological research program for distributed cognition
+
+**ZK:** distributed-metacognition.md · ct-epistemic-training-framework.md
 
 ---
 
