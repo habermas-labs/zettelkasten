@@ -55,19 +55,6 @@ The single most load-bearing theoretical source for CT. Heteroglossia — the in
 
 ---
 
-### Bourdieu, Pierre
-**Sociology / Cultural Theory**
-
-Field theory and cultural capital: every institutional field (medicine, HR, legal, insurance) has its own form of cultural capital — the right language, the right framing, the right documentation — that determines whether a claim is legible and taken seriously. Patients who arrive at accommodation encounters without that capital are not dismissed because their experience is less real; they are dismissed because they cannot present it in a form the field recognizes. CT's Threshold Tetra directly addresses this: the Navigator role is a temporary capital transfer, giving the patient enough field-specific capital to be heard in this encounter. Bourdieu's concept of *habitus* — the embodied dispositions that make field navigation feel natural to those socialized into it — explains why the transfer is not simply a matter of providing the right words: the patient is navigating through explicitly acquired knowledge what practitioners navigate through embodied reflex. The gap remains; the Navigator reduces it enough for this encounter.
-
-- *The Logic of Practice* (1990) — habitus, field, capital; the primary theoretical framework
-- *Language and Symbolic Power* (1991) — linguistic capital and the power relations embedded in institutional speech; most directly relevant to the Navigator role
-- *Distinction* (1984) — field and capital in cultural context; background for the broader framework
-
-**ZK:** threshold-asymmetry-case-study.md
-
----
-
 ### Bandura, Albert
 **Social Psychology / Educational Psychology**
 
@@ -78,6 +65,19 @@ Social cognitive theory and self-efficacy: the belief that one can successfully 
 - *Self-Efficacy: The Exercise of Control* (1997) — the mature statement; applications across domains including education
 
 **ZK:** distributed-metacognition.md · ct-epistemic-training-framework.md
+
+---
+
+### Bourdieu, Pierre
+**Sociology / Cultural Theory**
+
+Field theory and cultural capital: every institutional field (medicine, HR, legal, insurance) has its own form of cultural capital — the right language, the right framing, the right documentation — that determines whether a claim is legible and taken seriously. Patients who arrive at accommodation encounters without that capital are not dismissed because their experience is less real; they are dismissed because they cannot present it in a form the field recognizes. CT's Threshold Tetra directly addresses this: the Navigator role is a temporary capital transfer, giving the patient enough field-specific capital to be heard in this encounter. Bourdieu's concept of *habitus* — the embodied dispositions that make field navigation feel natural to those socialized into it — explains why the transfer is not simply a matter of providing the right words: the patient is navigating through explicitly acquired knowledge what practitioners navigate through embodied reflex. The gap remains; the Navigator reduces it enough for this encounter.
+
+- *The Logic of Practice* (1990) — habitus, field, capital; the primary theoretical framework
+- *Language and Symbolic Power* (1991) — linguistic capital and the power relations embedded in institutional speech; most directly relevant to the Navigator role
+- *Distinction* (1984) — field and capital in cultural context; background for the broader framework
+
+**ZK:** threshold-asymmetry-case-study.md
 
 ---
 
