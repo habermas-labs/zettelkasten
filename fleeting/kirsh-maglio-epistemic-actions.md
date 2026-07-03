@@ -35,6 +35,18 @@ Extends the framework from game contexts to workplace management: how agents set
 
 Data drawn from cooking, assembly, packing, supermarkets, workshops, playrooms, and the Tetris studies. The workplace-management framing is what opens the developmental question (novice vs. master workspace organization) — developed separately, not here.
 
+## Operationalizing the distinction for AI-assisted work — the subtraction test
+
+Emerged 2026-07-03, in a session working the workspace-friction fleeting note. The question: why does "student asks AI to write the paper" fail to be Kirshian, when "student assesses which tool best serves quality while optimizing time-on-task" looks like it should count?
+
+First pass (Skooter): the tool-selection move is a min-max — assess available tools, choose the one serving work quality while also optimizing other outcomes like time spent on task. That's real, but on inspection it sits one level up from what Kirsh's Tetris data documents. Tetris rotation is continuous, in-task, situated — restructuring the perceptual field moment to moment so the player's own fit-recognition stays easy. Tool selection is a meta-level decision made *about* the task before it starts; it maps to Kirsh's "arrangements that simplify choice" category, not to the in-task epistemic action itself. Necessary, but not yet the thing.
+
+The sharper test, pushing "action expended to serve, not replace, internal work" one notch further: **does the AI's output leave something for the student's own cognition to still do — recognize, integrate, judge, transform — before it becomes the finished work? Or does it arrive as the finished cognitive product, such that the only work remaining is transcription or submission?**
+
+Operationalized as a subtraction test: take the AI's output away and ask what the student would still have to do. "Recompute the whole thing from scratch" → pragmatic replacement dressed as help. "Lose a useful prompt but still have to do the actual work of integrating it" → epistemic scaffolding. Concretely: asking the AI for the strongest counterargument to a drafted paragraph, then deciding whether and how to fold it in, passes — something rotated into view that the student still has to *see* and use. Asking the AI to write the paragraph outright fails — nothing is left to fit.
+
+Tool selection (the min-max move) is upstream of the test: it's how a Kirshian chooses well among available instruments. The subtraction test is what tells you whether a given use, once made, actually behaved like a rotation or like a finished piece dropped straight into place. Directly operationalizes the workload-outsourcing distinction and gives the Irony of Agency's "residue of learning" claim a checkable form.
+
 ## Not a bridge — an orthogonal axis
 
 ChatGPT's original framing ("missing bridge between Clark/Chalmers and Risko/Gilbert") was refined in discussion to something stronger:
