@@ -268,6 +268,19 @@ A behavioral taxonomy of reflection that provides the closest existing operation
 
 ---
 
+### Kirsh, David & Maglio, Paul
+**Cognitive Science / Human-Computer Interaction**
+
+The epistemic/pragmatic action distinction: pragmatic actions move the agent toward a goal state in the world; epistemic actions change the world to simplify the problem-solving task — restructuring the problem space so internal cognition operates more efficiently (expert Tetris players over-rotating pieces to aid pattern recognition). Simplification here is always simplification of *cognition*, often purchased with additional physical action — epistemic action trades motoric effort for cognitive ease, never replaces internal work. What this gives CT that nothing else does: an actionable, technology-independent design criterion, and — via the subtraction test developed in the ZK note — a checkable diagnostic for whether a given AI-assisted move is epistemic scaffolding or pragmatic replacement (remove the AI's output; if the student would still have to do the actual work of integrating it, it scaffolded; if they'd have to recompute the whole thing from scratch, it replaced). Orthogonal to the Hutchins → Clark & Chalmers → Risko & Gilbert cognitive-geography nesting — Kirsh & Maglio classify action type, not system boundary, and epistemic actions occur at every level of that nesting. Maps productively onto Carse: pragmatic actions are finite-game moves, epistemic actions are infinite-game moves that maintain the conditions for continued play. Grounds the claim that workload outsourcing is the zero-epistemic-action limit of AI use. The 1995 solo extension moves the framework from game contexts into workplace management generally — spatial arrangement as integral to thinking, not afterthought — and opens the developmental question of novice vs. master workspace organization, taken up separately.
+
+- *"On Distinguishing Epistemic from Pragmatic Action"* (1994, *Cognitive Science*, 18(4), 513–549) — the founding paper; the Tetris studies; the core distinction
+- Kirsh, *"The Intelligent Use of Space"* (1995, *Artificial Intelligence*, 73(1–2), 31–68) — Kirsh solo; three-category classification of intelligent spatial arrangement (simplifying choice, perception, internal computation); environmental structuring as cognitive strategy beyond the game context
+
+**ZK:** kirsh-maglio-epistemic-actions.md · fleeting-workspace-friction-development.md · workload-outsourcing.md · distributed-metacognition.md
+
+---
+
+
 ### Laozi
 **Philosophy (Daoist)**
 
