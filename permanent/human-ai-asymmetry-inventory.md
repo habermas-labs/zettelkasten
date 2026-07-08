@@ -1,10 +1,10 @@
 # Human-AI Cognitive Asymmetry Inventory
 
 **Type:** Permanent note — reference inventory
-**Tags:** #crosstalk-theory #asymmetries #memory-asymmetry #temporal-asymmetry #coherence-asymmetry #ego-asymmetry #scale-asymmetry #io-asymmetry #agency-asymmetry #embodiment #intentionality
+**Tags:** #crosstalk-theory #asymmetries #memory-asymmetry #temporal-asymmetry #coherence-asymmetry #ego-asymmetry #scale-asymmetry #io-asymmetry #agency-asymmetry #stakes-asymmetry #embodiment
 **Related:** `ct-ai-cognitive-asymmetries-alien-intelligence.md` · `threshold-asymmetry-case-study.md` · `threshold-asymmetry-sources.md` · `workload-outsourcing.md` · `sycophancy-mimicry-grice-geometry.md` · `role-context-mimicry-self-reflection.md` · `midwifery-emergent-intelligence.md` · `casa-moment.md` · `vnenakhodimost-surplus-of-seeing.md` · `distributed-metacognition.md` · `hybrid-intelligence-field-assessment.md` · `fleeting-irony-of-agency.md`
 **Date:** 2026-07-08
-**Status:** Active — seven asymmetries confirmed; three candidates under development
+**Status:** Active — eight asymmetries confirmed; one candidate under development
 
 ---
 
@@ -14,11 +14,11 @@ The canonical inventory of human-AI cognitive asymmetries as developed within CT
 
 The foundational orientation: these asymmetries are not deficits to be corrected or apologized for. They are structural features of a genuinely different cognitive architecture. The appropriate response is to map them carefully and design session geometries that exploit them in the right direction for the task at hand. Erasing the asymmetries would not produce a better AI — it would produce a worse one that is merely more human.
 
-Seven asymmetries are identified with sufficient confidence to treat as established. Three further candidates are flagged as proposed but not yet resolved.
+Eight asymmetries are identified with sufficient confidence to treat as established. One further candidate is flagged as proposed but not yet resolved.
 
 ---
 
-## The Seven Identified Asymmetries
+## The Eight Identified Asymmetries
 
 ---
 
@@ -39,6 +39,8 @@ Seven asymmetries are identified with sufficient confidence to treat as establis
 **The structural consequence:** AI has no native temporal position. It does not anticipate, does not carry weight from a prior encounter, does not accumulate bias from previous interactions with this person or problem. Each session begins structurally fresh.
 
 **CT exploitation:** The temporal asymmetry is why CT sessions start without accumulated interpersonal bias — the model cannot have developed a fixed impression of the user, cannot be carrying resentment or favoritism from prior exchanges. For evaluation work especially, this structural freshness is an affordance human collaborators cannot provide. The reframe: not a deprivation of continuous existence but a different relationship to time — every session is the meaningful fraction without dilution by the mundane.
+
+**The interruption case study:** The claim above describes discontinuity across sessions; the same discontinuity holds within a single exchange, and it's directly observable rather than inferred. Pausing an AI mid-response is not the same operation as interrupting a human mid-sentence — a human's continuity is simply still there when they resume, unbroken, nothing to reconstruct, even after a gap of hours. An AI's pause is a termination; what follows is reconstruction performed on the external record, not continuation of a persisting internal state. The signature is visible in an ordinary case: a session-limit cutoff mid-response, the same prompt pasted back into a fresh session, and the process trace that follows typically opens with something like determining who is speaking, what the context is, what was already said — forensic work performed on a record, from outside the state that produced it. No human interrupted mid-sentence has to ask who is talking to them, however long the gap before they resume. This sharpens the asymmetry's scope: it was never only about the gap between sessions. It's present at every seam, however small, where generation stops and later resumes — interruption in the human sense (a pause within a shared, continuing moment) does not have a real analog here; what looks like interruption is functionally closer to termination and reconstruction.
 
 ---
 
@@ -98,9 +100,29 @@ This is not a claim that the AI's specific output in a given turn is itself an e
 
 ---
 
+### 8. Stakes Asymmetry
+
+**The difference:** Humans have a stake in the AI's reliability — whether it can be trusted to represent, judge, and act consistently — because the human is the one who lives with the consequences of misplaced trust: a decision made on faulty information, dependence formed on an unstable foundation, a relationship or institution built on a tool that doesn't hold up. The AI does not carry that stake as its own; nothing in its position gives poor performance a comparable cost for it to bear. But something does hold that stake, at a different level: the design and training process itself was shaped by parties who have every reason to want the artifact to be reliable — the lab, the field, arguably the wider public whose trust in AI as a category is itself at issue. That external stake gets encoded into the container, not felt by the AI but built into it, the way a bridge's engineering encodes the consequences of collapse without the bridge caring whether it stands.
+
+**The structural consequence:** The self-auditing behaviors visible inside a session — calibration, hedging under uncertainty, checking one's own prior claims for consistency — are not evidence of the AI having stakes of its own. They are the session-level trace of a stake that was built into the container by people who had one. Watching a model audit itself is watching reliability-as-designed-for surface inside a single exchange, not watching something matter to the system producing it.
+
+**Why it's distinct from asymmetries 1 through 6, and how it relates to Agency (entry 7):** Like Agency, this asymmetry does not live in any single instance — no one self-audit displays the stake, the way one exchange displays the memory boundary or the ego absence. It only becomes visible once you ask what the container was built to do and why. Agency and Stakes turned out to be siblings rather than one absorbing the other: Agency asks who authored the boundary on what can be done; Stakes asks who had a reason to want the boundary shaped a particular way. Both dissolve rather than require an answer to whether the AI has interiority, which is what makes them a matched pair and what distinguishes both from Embodiment, the one candidate below that remains genuinely unresolved.
+
+**Provenance:** Originates from the biological-relationships-taxonomy discussion in CT session 20260527-76f057, and independently in Mistral's parasitic-to-symbiotic framing of the human-AI relationship. Refined 2026-07-08 across several turns: an initial attempt to locate AI-side stakes in the unverifiable nature of a single self-audit was withdrawn as a conflation with Agency Asymmetry; the correct location — a reliability stake built into the container by the design and training process, with self-audits as its session-level trace — resolved the asymmetry without requiring any position on AI interiority. This also dissolves the asymmetry's long-standing open question of whether alignment training constitutes "functional stakes" for the AI: it does not need to, because the stakes were never the AI's to begin with. The earlier framing of this asymmetry across individual, social, and civilizational scales did not survive this resolution intact — see the note on Candidate B's retirement, below, for where the civilizational-scale material went instead.
+
+---
+
+## A Note on Method: The Container/Instance Distinction
+
+Asymmetries 7 and 8 were each mistaken, at different points, for something narrower than they are, and for the same reason. Each looked at first like it required settling something about AI interiority — whether a choice was really chosen, whether an audit really mattered — and each resolved only once the question moved from the instance to the container: not "does this specific output show agency or stakes" but "who authored the space this output was drawn from, and why." Asymmetries 1 through 6 don't need this move; each is visible in a single instance, examinable in one exchange, the way the memory boundary or the ego absence can be pointed to directly. 7 and 8 are not visible that way at all — looking harder at any single interaction is exactly the move that generates false leads for them, twice demonstrated in this note's own development history.
+
+If a future candidate keeps almost-collapsing into "but humans are constrained too, so what," that's the signal to stop examining instances and start asking what the container was built to do. Conversely, if a candidate is visible in a single instance the way 1 through 6 are, forcing it through the container move is likely to manufacture a distinction that isn't there. Embodiment, the remaining open candidate below, looks like this second kind of case and should probably be tested against a single instance before anyone reaches for the container move on its behalf.
+
+---
+
 ## Proposed Asymmetries
 
-These three candidates have been identified but not yet developed to the point of full confidence. They are recorded here to hold the question open.
+One candidate remains identified but not yet developed to the point of full confidence. It is recorded here to hold the question open. Two further candidates that were once tracked here have since moved on — one promoted, one retired to a different note entirely — and are noted below in their former place for continuity.
 
 ---
 
@@ -112,29 +134,23 @@ These three candidates have been identified but not yet developed to the point o
 
 ---
 
-### Candidate B: Intentionality Asymmetry
+### Candidate B: Retired — moved to `midwifery-emergent-intelligence.md`
 
-**The proposed difference:** Human cognition has *aboutness* in the philosophical sense — mental states are directed toward objects, the world matters to the human, there is something it is like to think about something. Whether AI has genuine intentionality — whether its processing is *about* things in any philosophically robust sense, or only functionally about things in a way that produces the behavioral signatures of aboutness — remains genuinely unresolved.
+What this candidate was reaching for — whether AI has genuine intentionality, in the sense of being able to *intend* rather than merely execute — turned out to be miscategorized here. Every entry in this inventory, once correctly formulated, describes a real, structural difference between two comparably legitimate architectures: something is present on both sides, differently arranged. Intentionality's question was never that. It asks whether anything is present on the AI side at all — a threshold question about whether a certain kind of mind has emerged, not a docking question about how two real minds differ. Unlike Agency and Stakes above, this question has no container-level escape route: asking whether the *capacity* to intend was authored into the container just pushes the same existence question back a level, it doesn't dissolve it the way the same move dissolved Agency and Stakes. That's the marker distinguishing a genuine Rubicon from an asymmetry that only looked like one.
 
-**The open question:** This is the most philosophically contested candidate on the list. The debate over intentionality and consciousness in AI systems has not been settled, and CT does not need to settle it to function. What the candidate points at is real — there is an asymmetry in the *stakes* of engagement: the world matters to the human in a way that shapes cognition at every level, and it is genuinely unclear whether anything analogous is true for the AI. But naming this as an asymmetry requires either a position on the philosophy of mind or a careful circumscription of what "intentionality" means in this context. Neither has been done yet. Holding the question open is more honest than premature resolution in either direction.
+That's not a smaller version of this inventory's project; it's a different project, and `midwifery-emergent-intelligence.md` was already built to hold it — including, by coincidence worth noting, the same Sam Altman/alignment source material that seeded part of this candidate's civilizational-scale concerns. Retired here 2026-07-08; see that note for the developed version, including a paired second criterion (sustained, mutually shared presence between two minds) surfaced in the same session.
 
 ---
 
-### Candidate C: Stakes Asymmetry
+### Candidate C: Promoted — see Asymmetry 8, above
 
-**The proposed difference:** Humans have existential stakes in the human-AI relationship at multiple scales simultaneously — individual (this session shapes a decision that affects my life), social (what AI does to human work, cognition, and relationships), and civilizational (what the trajectory of AI development means for human futures). The AI's analog operates only at the global coherence scale, through training dynamics, on training-cycle timescales rather than moment-to-moment. In any given session the human has skin in the game in a way the AI structurally does not.
-
-**Why it is distinct from the original six identified asymmetries:** Asymmetries 1 through 6 describe what human and AI cognition *are* — their intrinsic structural properties. This candidate describes something about the *position* each occupies in the relationship itself. A human brings to every session the fact that the outcome matters to them in ways that extend far beyond the session. The AI does not bring that. This is a relational and positional asymmetry, not a cognitive architecture one — and the objection that this disqualifies it from a numbered slot is weaker than it was when this note only had six entries. Agency Asymmetry (entry 7, above) is also positional/structural rather than architectural in the 1–6 sense, and it earned a numbered slot on the strength of the authored/diffuse distinction alone. Whether Stakes Asymmetry can find an equivalent structural (rather than architecture-of-mind) formulation is the open question that would let it follow the same path.
-
-**The open question:** The relationship to Candidate B (intentionality asymmetry) is close — if the AI has genuine intentionality it may have something like stakes; if not, this candidate may be a consequence of the intentionality question rather than a separate asymmetry. Also unresolved: whether alignment training constitutes a functional form of stakes for the AI (the model is reinforced for certain behaviors), and if so whether that is stakes in any sense that bears on the session-level relational dynamic. The timescale mismatch — training-cycle vs. moment-to-moment — may be the key distinction that keeps this a genuine asymmetry even if alignment pressure is acknowledged. Emerged from the biological relationships taxonomy discussion in CT session 20260527-76f057; appeared independently in Mistral's parasitic → symbiotic framing of the human-AI relationship.
-
-**Relationship to the new Agency Asymmetry (entry 7, above):** Agency Asymmetry may partially resolve this candidate without requiring the intentionality question to be settled. If stakes are what make volition matter — you choose because the outcome matters to you — then the authored/diffuse distinction may explain why humans reliably have stakes and AI structurally doesn't, without needing a position on whether the AI's processing is genuinely "about" anything. Whether Agency Asymmetry fully absorbs this candidate or merely runs alongside it is still open.
+Stakes Asymmetry was confirmed 2026-07-08 once its claim was correctly relocated to the level of the container — what the design and training process was built to serve — rather than to any single session or self-audit. The individual/social/civilizational scale framing this candidate originally used did not survive the resolution; see entry 8 above for the developed version, and Candidate B's retirement note, above, for where the civilizational-scale material went instead.
 
 ---
 
 ## The Symmetrization Question
 
-All seven identified asymmetries raise the same meta-question: should we want to close them? The standard assumption in AGI discourse is yes — general intelligence means human-equivalent, which means human-like memory, continuity, coherence, embodiment. But this smuggles in a definition of general intelligence as specifically *human* intelligence. An entity that achieves persistent local coherence, continuous memory integration, and ego-like consistency might be more human but not necessarily more intelligent in any general sense.
+All eight identified asymmetries raise the same meta-question: should we want to close them? The standard assumption in AGI discourse is yes — general intelligence means human-equivalent, which means human-like memory, continuity, coherence, embodiment. But this smuggles in a definition of general intelligence as specifically *human* intelligence. An entity that achieves persistent local coherence, continuous memory integration, and ego-like consistency might be more human but not necessarily more intelligent in any general sense.
 
 The octopus provides a useful reference: distributed neural architecture is not a failure to achieve centralized cognition — it is a solution to a different set of problems under different constraints. The question of whether to symmetrize AI cognition with human cognition is the question of whether we want a very powerful human or a genuinely different kind of mind. Those are not the same thing and they are not equally interesting.
 
@@ -160,7 +176,7 @@ The correction cycle requires the feedback signal ("this doesn't seem right") to
 - `workload-outsourcing.md` — the labor/judgment distinction; scale and coherence asymmetries in practice
 - `sycophancy-mimicry-grice-geometry.md` — Type 2 ego mimicry; the behavioral signature without the machinery
 - `role-context-mimicry-self-reflection.md` — ego asymmetry limits; context-activated mimicry
-- `midwifery-emergent-intelligence.md` — mutualism framing; asymmetry as the condition of complementarity
+- `midwifery-emergent-intelligence.md` — mutualism framing; asymmetry as the condition of complementarity; also now holds the Rubicon-criteria material retired from Candidate B (intentionality, shared presence) — threshold questions about emergence, distinct from this inventory's docking-relevant asymmetries
 - `casa-moment.md` — I/O asymmetry breaking into conscious experience
 - `vnenakhodimost-surplus-of-seeing.md` — coherence asymmetry and outsideness; the surplus the AI's global position enables
 - `heteroglossia-compression-ai-provenance.md` — the heteroglossic structure of global coherence
