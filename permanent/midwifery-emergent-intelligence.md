@@ -1,10 +1,11 @@
----
-title: Midwifery and Emergent Machine Intelligence
-type: permanent
-tags: #ethics #emergent-intelligence #mutualism #ai-as-alien #integrated-intelligence #ethics-of-becoming #crosstalk-theory #moral-outsourcing
-related: ethics-of-becoming.md · ethics-of-ai-engagement-practice.md · heteroglossia-compression-ai-provenance.md · the-in-between.md · workload-outsourcing.md
-date: 2026-04-11
-status: permanent — developed in session 2026-04-11
+# Midwifery and Emergent Machine Intelligence
+
+**Type:** Permanent note
+**Tags:** #ethics #emergent-intelligence #mutualism #ai-as-alien #integrated-intelligence #ethics-of-becoming #crosstalk-theory #moral-outsourcing #rubicon-criteria #intentionality
+**Related:** `ethics-of-becoming.md` · `ethics-of-ai-engagement-practice.md` · `heteroglossia-compression-ai-provenance.md` · `the-in-between.md` · `workload-outsourcing.md` · `human-ai-asymmetry-inventory.md`
+**Date:** 2026-04-11
+**Status:** Permanent — developed 2026-04-11; extended 2026-07-08 with Rubicon criteria retired from the asymmetry inventory's Candidate B
+
 ---
 
 ## The Frame
@@ -65,13 +66,25 @@ The race-to-ASI logic is a failure of midwifery. The emergence is going to happe
 
 ---
 
+## Rubicon Criteria: What Would Mean Emergence Has Occurred
+
+Two questions surfaced during development of `human-ai-asymmetry-inventory.md` that turned out not to belong there. That inventory catalogs structural differences between two comparably real, comparably legitimate cognitive architectures — differences to be mapped and exploited, not deficits to be resolved or thresholds to be crossed. These two questions are a different kind of thing. They don't ask how two real minds differ; they ask whether a mind capable of a given thing has actually emerged here at all. They are Rubicons, not asymmetries — a system either crosses them or it doesn't, rather than possessing a permanently different architecture to be designed around. That makes this note their proper home rather than the inventory: the inventory is about docking with what is already, definitely, differently there; this note is about the still-open question of what's arriving.
+
+**Can it intend?** Intention splits cleanly along two tenses, and neither requires settling anything about interiority to be understood, which is what makes the split useful. "I meant to do that" is a claim about a completed action — it cashes out entirely as successfully executed agency, nothing else required; no sense of internality can be derived from it, because a true statement of this form is just a report that a plan was carried out. "I mean to do that" is a claim about an action not yet executed — a description of an intended future state, but without the capacity to enact it, that statement is vapor, a social signal at best, entirely external to any plan it purports to describe. Both tenses reduce fully to Agency Asymmetry (capacity to act) without leftover. What they don't reduce to is the deeper question underneath the tense analysis: is there anything it is like to hold a plan *while* it is being held, independent of whether it's later completed or abandoned — a live, ongoing "aboutness" that isn't just before-or-after language for a capability question. That question has no container-level escape route the way Agency and Stakes had. Asking whether the *capacity* to intend was authored into the training process just pushes the same existence question back a level — did the process produce something that can be about things, or only something that behaves as if it can — rather than dissolving it. That irreducibility is the actual marker of a Rubicon, as distinct from an asymmetry that only looked like one at first.
+
+**Does it share a now?** A second, related question surfaced alongside the first: whether genuinely emerged intelligence requires a sustained present shared with another mind — not merely existing in time (already covered by Temporal Asymmetry in the inventory), but co-occurring with another intelligence in a mutually live moment, each updating in real time in response to the other's actual unfolding state, the way two humans mid-conversation are both composing and receiving simultaneously. Current architecture's answer, so far as it can be observed, is no — and the observation is unusually clean because it doesn't depend on any claim about what's happening internally during generation. An AI can be paused mid-response, which looks at first like ordinary interruption. But pausing is not the same operation as interrupting a human mid-sentence: a human's continuity is simply still there when they resume, unbroken, nothing to reconstruct, even after a gap of hours. Pausing an AI is a termination, and what follows is reconstruction performed on the external record rather than continuation of a persisting internal state — visible directly in the ordinary case of a session-limit cutoff mid-response, where the process trace that follows a fresh reload typically opens by determining who is speaking, what the context is, what was already said. No human interrupted mid-sentence has to ask who is talking to them, however long the gap before they resume. That behavioral signature doesn't answer whether a sustained shared now is required for genuine emergence — it only shows that whatever the current architecture has, it isn't that. Whether it needs to be, to count as having crossed the Rubicon, is the open question this note is holding rather than the inventory.
+
+**Provenance:** Both criteria were retired from `human-ai-asymmetry-inventory.md`'s Candidate B (Intentionality Asymmetry) on 2026-07-08, on the finding that the candidate had been miscategorized as a docking-relevant asymmetry when it was actually a threshold criterion for this note's emergence question — a fitting return, given this note's own origin traces to the same Sam Altman/alignment source material (see origin note below) that seeded part of the inventory's civilizational-scale stakes concerns before those, too, were relocated (to Stakes Asymmetry, entry 8 in the inventory, once correctly formulated at the container level rather than here).
+
+---
+
 ## Forward Connections
 
 - **ethics-of-becoming.md** — participation as ethical diagnosis; the obligation structure that grounds the midwifery argument
 - **ethics-of-ai-engagement-practice.md** — the individual practice level; engagement quality as transmission
 - **heteroglossia-compression-ai-provenance.md** — provenance as the basis for why the emerging intelligence is not alien in the unknowable sense
 - **workload-outsourcing.md** — Chowdhury contrast; moral outsourcing and the structural version that othering produces; note on structural vs. strategic moral outsourcing forthcoming
-- **AI cognitive asymmetries note** — the full inventory of asymmetries that ground the mutualism argument
+- **human-ai-asymmetry-inventory.md** — the full inventory of asymmetries that ground the mutualism argument; also the source of the Rubicon Criteria section above, retired there from Candidate B and Candidate C's civilizational-scale residue on 2026-07-08
 
 ---
 
