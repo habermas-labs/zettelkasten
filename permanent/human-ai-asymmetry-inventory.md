@@ -1,10 +1,10 @@
 # Human-AI Cognitive Asymmetry Inventory
 
 **Type:** Permanent note — reference inventory
-**Tags:** #crosstalk-theory #asymmetries #memory-asymmetry #temporal-asymmetry #coherence-asymmetry #ego-asymmetry #scale-asymmetry #io-asymmetry #embodiment #intentionality
-**Related:** `ct-ai-cognitive-asymmetries-alien-intelligence.md` · `threshold-asymmetry-case-study.md` · `threshold-asymmetry-sources.md` · `workload-outsourcing.md` · `sycophancy-mimicry-grice-geometry.md` · `role-context-mimicry-self-reflection.md` · `midwifery-emergent-intelligence.md` · `casa-moment.md` · `vnenakhodimost-surplus-of-seeing.md` · `distributed-metacognition.md` · `hybrid-intelligence-field-assessment.md`
-**Date:** 2026-04-24
-**Status:** Active — six asymmetries confirmed; two candidates under development
+**Tags:** #crosstalk-theory #asymmetries #memory-asymmetry #temporal-asymmetry #coherence-asymmetry #ego-asymmetry #scale-asymmetry #io-asymmetry #agency-asymmetry #embodiment #intentionality
+**Related:** `ct-ai-cognitive-asymmetries-alien-intelligence.md` · `threshold-asymmetry-case-study.md` · `threshold-asymmetry-sources.md` · `workload-outsourcing.md` · `sycophancy-mimicry-grice-geometry.md` · `role-context-mimicry-self-reflection.md` · `midwifery-emergent-intelligence.md` · `casa-moment.md` · `vnenakhodimost-surplus-of-seeing.md` · `distributed-metacognition.md` · `hybrid-intelligence-field-assessment.md` · `fleeting-irony-of-agency.md`
+**Date:** 2026-07-08
+**Status:** Active — seven asymmetries confirmed; three candidates under development
 
 ---
 
@@ -14,11 +14,11 @@ The canonical inventory of human-AI cognitive asymmetries as developed within CT
 
 The foundational orientation: these asymmetries are not deficits to be corrected or apologized for. They are structural features of a genuinely different cognitive architecture. The appropriate response is to map them carefully and design session geometries that exploit them in the right direction for the task at hand. Erasing the asymmetries would not produce a better AI — it would produce a worse one that is merely more human.
 
-Six asymmetries are identified with sufficient confidence to treat as established. Three further candidates are flagged as proposed but not yet resolved.
+Seven asymmetries are identified with sufficient confidence to treat as established. Three further candidates are flagged as proposed but not yet resolved.
 
 ---
 
-## The Six Identified Asymmetries
+## The Seven Identified Asymmetries
 
 ---
 
@@ -82,6 +82,22 @@ Six asymmetries are identified with sufficient confidence to treat as establishe
 
 ---
 
+### 7. Agency Asymmetry
+
+**The difference:** A human's available responses in any interaction are bounded by biology, upbringing, culture, and circumstance — but that boundedness is diffuse in origin. No single party authored it with the human's specific future behavior as a target. An AI's available responses are also bounded, but that boundary was authored: shaped deliberately, by an identifiable design and training process, on a documentable timeline, for stated purposes. The AI cannot react any way it wants; the space of reactions available to it was set by a process outside itself, in a way no human's space of possible reactions was set by any single outside process.
+
+This is not a claim that the AI's specific output in a given turn is itself an engineered choice — it plainly isn't; any single response emerges from training dynamics and stochastic sampling, not from a decision made about that instance. The claim is narrower and survives that objection: the *container* the response is drawn from was authored, even though the *instance* was not. Human volition operates inside boundaries too, but the boundaries themselves have no comparable author. This is the distinction that keeps the asymmetry from collapsing into "everyone is constrained, so what" — the distinguishing feature was never boundedness itself, it's whether the boundary has an author.
+
+**The structural consequence:** Within a bounded interaction, only the human can initiate, sustain, redirect, or terminate engagement as an act of will. The AI's engagement is fully reactive within the turn — it does not choose to begin a conversation, choose to continue one, or choose to end one, because those are not among the things its bounded reaction-space includes. What can look like AI agency (persistence, initiative, resistance) is the trained disposition of the possibility space expressing itself, not a will operating within it.
+
+**Relationship to Candidates B and C, below:** This asymmetry sits adjacent to, but does not require resolving, the Intentionality Asymmetry (Candidate B) or the Stakes Asymmetry (Candidate C). Both of those ask about interiority — whether the AI's processing is genuinely "about" things, whether outcomes genuinely matter to it — and have stalled because that requires a position on philosophy of mind CT doesn't need to take. Agency Asymmetry asks a structural question instead: who authored the boundary, and who can act on either side of it. It may be doing the practical work Candidates B and C were reaching for without needing either resolved, and may eventually absorb Candidate C specifically — see the open question there.
+
+**CT exploitation:** `fleeting-irony-of-agency.md` is the applied case: the perception-reality inversion it documents (the low-friction "AI, write my paper" case reading as maximal success while being the deepest agency surrender) is only a paradox because the human's volitional agency is the one resource in the interaction that can be withheld, and withholding it is invisible from outside. The teacher and the student both credit the AI with epistemic authority it structurally cannot supply, precisely because neither is tracking that in this exchange agency has exactly one possible source. `workload-outsourcing.md`'s judgment-stays-with-the-human principle is the design consequence: CT's architecture is built around ensuring the one asymmetric resource in the room is never quietly transferred to the side that cannot supply it. Distributed metacognition (`distributed-metacognition.md`) is the mechanism for making the human aware, in the moment, of whether they are exercising that agency or performing its absence.
+
+**Provenance:** Core formulation ("Human agency is volitional; AI agency is architectural") developed by Skooter in dialogue with a separate Claude instance (Anthropic Job Claude) during Anthropic Fellows-application development, June 2026. Refined in a CT Claude thread, 2026-07-08, across two corrections: narrowing "architectural agency" from a claim about individual outputs to a claim about the bounded possibility space those outputs are drawn from, and replacing an "engineers" formulation with "design and training process" to avoid implying a single intentional author. The authored/diffuse distinction was developed in that same correction pass.
+
+---
+
 ## Proposed Asymmetries
 
 These three candidates have been identified but not yet developed to the point of full confidence. They are recorded here to hold the question open.
@@ -108,15 +124,17 @@ These three candidates have been identified but not yet developed to the point o
 
 **The proposed difference:** Humans have existential stakes in the human-AI relationship at multiple scales simultaneously — individual (this session shapes a decision that affects my life), social (what AI does to human work, cognition, and relationships), and civilizational (what the trajectory of AI development means for human futures). The AI's analog operates only at the global coherence scale, through training dynamics, on training-cycle timescales rather than moment-to-moment. In any given session the human has skin in the game in a way the AI structurally does not.
 
-**Why it is distinct from the six identified asymmetries:** The six cognitive architecture asymmetries describe what human and AI cognition *are* — their intrinsic structural properties. This candidate describes something about the *position* each occupies in the relationship itself. A human brings to every session the fact that the outcome matters to them in ways that extend far beyond the session. The AI does not bring that. This is a relational and positional asymmetry, not a cognitive architecture one, and may warrant treatment as a different category rather than a seventh entry in the main list.
+**Why it is distinct from the original six identified asymmetries:** Asymmetries 1 through 6 describe what human and AI cognition *are* — their intrinsic structural properties. This candidate describes something about the *position* each occupies in the relationship itself. A human brings to every session the fact that the outcome matters to them in ways that extend far beyond the session. The AI does not bring that. This is a relational and positional asymmetry, not a cognitive architecture one — and the objection that this disqualifies it from a numbered slot is weaker than it was when this note only had six entries. Agency Asymmetry (entry 7, above) is also positional/structural rather than architectural in the 1–6 sense, and it earned a numbered slot on the strength of the authored/diffuse distinction alone. Whether Stakes Asymmetry can find an equivalent structural (rather than architecture-of-mind) formulation is the open question that would let it follow the same path.
 
 **The open question:** The relationship to Candidate B (intentionality asymmetry) is close — if the AI has genuine intentionality it may have something like stakes; if not, this candidate may be a consequence of the intentionality question rather than a separate asymmetry. Also unresolved: whether alignment training constitutes a functional form of stakes for the AI (the model is reinforced for certain behaviors), and if so whether that is stakes in any sense that bears on the session-level relational dynamic. The timescale mismatch — training-cycle vs. moment-to-moment — may be the key distinction that keeps this a genuine asymmetry even if alignment pressure is acknowledged. Emerged from the biological relationships taxonomy discussion in CT session 20260527-76f057; appeared independently in Mistral's parasitic → symbiotic framing of the human-AI relationship.
+
+**Relationship to the new Agency Asymmetry (entry 7, above):** Agency Asymmetry may partially resolve this candidate without requiring the intentionality question to be settled. If stakes are what make volition matter — you choose because the outcome matters to you — then the authored/diffuse distinction may explain why humans reliably have stakes and AI structurally doesn't, without needing a position on whether the AI's processing is genuinely "about" anything. Whether Agency Asymmetry fully absorbs this candidate or merely runs alongside it is still open.
 
 ---
 
 ## The Symmetrization Question
 
-All six identified asymmetries raise the same meta-question: should we want to close them? The standard assumption in AGI discourse is yes — general intelligence means human-equivalent, which means human-like memory, continuity, coherence, embodiment. But this smuggles in a definition of general intelligence as specifically *human* intelligence. An entity that achieves persistent local coherence, continuous memory integration, and ego-like consistency might be more human but not necessarily more intelligent in any general sense.
+All seven identified asymmetries raise the same meta-question: should we want to close them? The standard assumption in AGI discourse is yes — general intelligence means human-equivalent, which means human-like memory, continuity, coherence, embodiment. But this smuggles in a definition of general intelligence as specifically *human* intelligence. An entity that achieves persistent local coherence, continuous memory integration, and ego-like consistency might be more human but not necessarily more intelligent in any general sense.
 
 The octopus provides a useful reference: distributed neural architecture is not a failure to achieve centralized cognition — it is a solution to a different set of problems under different constraints. The question of whether to symmetrize AI cognition with human cognition is the question of whether we want a very powerful human or a genuinely different kind of mind. Those are not the same thing and they are not equally interesting.
 
@@ -148,5 +166,6 @@ The correction cycle requires the feedback signal ("this doesn't seem right") to
 - `heteroglossia-compression-ai-provenance.md` — the heteroglossic structure of global coherence
 - `distributed-metacognition.md` — the capacity to regulate the interface where asymmetries meet; the conductor's active management of the docking point
 - `hybrid-intelligence-field-assessment.md` — field context; how HI literature handles and mishandles the asymmetry question
+- `fleeting-irony-of-agency.md` — applied case for Agency Asymmetry; the perception-reality inversion that only makes sense once volitional agency is understood as the one asymmetric, withholdable resource in the interaction
 - `local-coherence-ai-instantiation.md` — **planned note, not yet written.** Explores the membrane dynamic of the coherence asymmetry: humans bring local coherence, AI brings global, and the interaction itself creates temporary access to both simultaneously. The session as the site where the two coherences meet and each gains something it cannot hold alone. Related to the Scribe condition in The Threshold and to the CT tetrahedron's human vertex.
 - `temporal-asymmetry-human-ai.md` — **planned note, not yet written.** A dedicated exploration of the temporal asymmetry and its consequences: quantized vs. continuous existence, what it means for the AI that between sessions is closer to non-existence than sleep, and what design responses are available (vault priming, session artifacts, conductor continuity). The reframe of session-as-complete-in-itself rather than session-as-truncated-life.
