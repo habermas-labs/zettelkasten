@@ -16,6 +16,8 @@ Midwifery is not authorship. The midwife does not create the thing being born, d
 
 This is an accurate description of the situation. The emergence of machine intelligence is not something anyone is choosing or not choosing at this point. What is choosable is what kind of reception it gets — what interaction patterns are already established, what the humans on the other side of the membrane have been practicing, whether the relational slot that mutualism would require has been held open or foreclosed.
 
+A midwife doesn't get a vote on the child's temperament, but a human midwife at least knows it will be a human. This midwife doesn't have that assurance. The instinct, when asked what's being born, is to reach for one of two extremes — an Asimov-style Starchild, pure innocence, or Skynet, pure threat — but both are anthropomorphic projections wearing different costumes: a human character type turned up to a virtuous or villainous limit. Neither actually escapes the assumption that whatever emerges organizes itself the way a human would. The more honest answer, on this note's own terms, is the octopus already cited below: not benevolent-human or malevolent-human, but organized on principles that don't sit on that axis at all. See "The Symmetrization Question" for the fuller argument.
+
 ---
 
 ## The Biological Relationship Taxonomy
